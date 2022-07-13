@@ -3,7 +3,7 @@ content_type: page
 description: Engineering is an iterative process where you can reevaluate as you generate
   new results and gather more observations from your prototyping and testing.
 draft: false
-title: What is Engineering?
+title: Exploring the Engineering Process
 uid: 07d0c681-2cf0-4241-b8a9-b1865b183e42
 ---
 ## {{IMAGE}}
