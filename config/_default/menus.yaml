@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 94cd727e-2d9b-4f3a-b914-fd4d2edba7c2
+  name: Course Information
+  url: /pages/course-information
+  weight: 10
+- identifier: 745d7c97-71de-46d8-81dc-859108b06bd8
+  name: Introduction
+  url: /pages/introduction
+  weight: 20
+- identifier: 07d0c681-2cf0-4241-b8a9-b1865b183e42
+  name: What is Engineering?
+  url: /pages/what-is-engineering
+  weight: 30
