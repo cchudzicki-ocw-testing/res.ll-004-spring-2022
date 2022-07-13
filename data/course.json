@@ -1,0 +1,28 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ll-educate-introduction-to-engineering-concepts"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ll-educate-introduction-to-engineering-concepts"
+  },
+  "course_title": "LL EduCATE: Introduction to Engineering Concepts",
+  "course_description": "Welcome to \u201cIntroduction to Engineering Concepts,\" a lesson that will introduce you to several STEM fields and help you build core skills that are helpful across many engineering disciplines. We also explain the engineering/research development process. This lesson assumes little to no prior engineering experience but does provide suggestions to increase the difficulty of the experiments should you desire to do so.",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.LL-004",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ll-educate-introduction-to-engineering-concepts"
+  },
+  "learning_resource_types": [],
+  "site_uid": "dde77c1c-2843-40bf-a8d2-27658408e014"
+}
