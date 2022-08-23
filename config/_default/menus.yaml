@@ -11,8 +11,22 @@ leftnav:
   name: What is Engineering?
   url: /pages/what-is-engineering
   weight: 30
+- identifier: 06021acd-609a-416e-8442-4ee43941eded
+  name: What are Common STEM Fields?
+  url: /pages/engineering-fields
+  weight: 40
 - identifier: 9339e88d-fbfa-492e-82c4-080fdf00664d
   name: Core STEM Fields
   parent: 07d0c681-2cf0-4241-b8a9-b1865b183e42
   url: /pages/core-stem-fields
   weight: 10
+- identifier: 1c082150-35bb-4236-af04-c67f3976fd42
+  name: Bioengineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  url: /pages/bioengineering
+  weight: 10
+- identifier: 53b4f731-d3c7-4f34-884f-b1194d6f6ad0
+  name: Civil Engineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  url: /pages/civil-engineering
+  weight: 20
