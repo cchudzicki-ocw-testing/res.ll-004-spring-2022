@@ -30,3 +30,38 @@ leftnav:
   parent: 06021acd-609a-416e-8442-4ee43941eded
   url: /pages/civil-engineering
   weight: 20
+- identifier: 8debd02e-6b15-4fca-8da4-a790605c77e9
+  name: Chemical Engineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  url: /pages/chemical-engineering
+  weight: 30
+- identifier: 37609b1f-ecd4-4a38-80ff-9f096a385830
+  name: Computer Science
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  url: /pages/computer-science
+  weight: 40
+- identifier: 139d8a89-a0b2-4764-8521-182d2361d283
+  name: Data Science
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  url: /pages/data-science
+  weight: 50
+- identifier: d4a2477d-d6ef-4a17-abb2-c4d4e18e45b8
+  name: Electrical / Electronic
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  url: /pages/electrical-electronic-engineering
+  weight: 60
+- identifier: f80e2b40-8e12-4587-a990-e4fb27e443e9
+  name: Environmental Engineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  url: /pages/environmental-engineering
+  weight: 70
+- identifier: c9c42ba7-62f4-4412-ab3b-2b9abeb6fbe6
+  name: Mechanical Engineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  url: /pages/mechanical-engineering
+  weight: 80
+- identifier: 6e3ee185-f87f-46da-93b4-d213eec53d4d
+  name: Nuclear Engineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  url: /pages/nuclear-engineering
+  weight: 90
