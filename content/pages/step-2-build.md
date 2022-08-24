@@ -2,7 +2,7 @@
 content_type: page
 description: Building instructions for the bluetooth hide and seek experiment.
 draft: false
-title: 'Step 2: Build'
+title: 'Bluetooth Hide & Seek | Step 2: Build'
 uid: 07c691eb-3eee-41dc-8c1a-14a2c9a52c18
 ---
 Now let’s shift our focus to the ***Build*** 
