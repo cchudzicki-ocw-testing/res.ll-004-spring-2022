@@ -19,6 +19,10 @@ leftnav:
   name: 'Experiment: Filtration Lab'
   url: /pages/filtration-lab-motivation
   weight: 50
+- identifier: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
+  name: 'Experiment: Bluetooth Hide & Seek'
+  url: /pages/bluetooth-hide-and-seek
+  weight: 60
 - identifier: 9339e88d-fbfa-492e-82c4-080fdf00664d
   name: Core STEM Fields
   parent: 07d0c681-2cf0-4241-b8a9-b1865b183e42
@@ -114,3 +118,23 @@ leftnav:
   parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
   url: /pages/reflect
   weight: 70
+- identifier: 8407b28f-514f-467f-9518-ce8c4862da83
+  name: 'Step 1: Gathering Materials'
+  parent: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
+  url: /pages/step-1-gathering-materials
+  weight: 10
+- identifier: 07c691eb-3eee-41dc-8c1a-14a2c9a52c18
+  name: 'Step 2: Build'
+  parent: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
+  url: /pages/step-2-build
+  weight: 20
+- identifier: 9f4db52d-e364-493f-9f8e-fb69b7a865df
+  name: 'Step 3: Experiment'
+  parent: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
+  url: /pages/step-3-experiment
+  weight: 30
+- identifier: 9b034a01-d976-4217-8c76-105b4845c620
+  name: 'Step 4: Test'
+  parent: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
+  url: /pages/step-4-test
+  weight: 40
