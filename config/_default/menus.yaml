@@ -15,6 +15,10 @@ leftnav:
   name: What are Common STEM Fields?
   url: /pages/engineering-fields
   weight: 40
+- identifier: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  name: 'Experiment: Filtration Lab'
+  url: /pages/filtration-lab-motivation
+  weight: 50
 - identifier: 9339e88d-fbfa-492e-82c4-080fdf00664d
   name: Core STEM Fields
   parent: 07d0c681-2cf0-4241-b8a9-b1865b183e42
@@ -75,3 +79,13 @@ leftnav:
   parent: 06021acd-609a-416e-8442-4ee43941eded
   url: /pages/community-focused-engineering-societies
   weight: 110
+- identifier: d3b706dc-fbcc-4ed1-a012-650d814778e4
+  name: Filtration Experiment Overview
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  url: /pages/filtration-experiment-overview
+  weight: 10
+- identifier: e9aec624-1e21-4d0f-9d6d-c268a838aac4
+  name: Filtration Lab Steps
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  url: /pages/filtration-lab
+  weight: 20
