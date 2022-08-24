@@ -17,3 +17,5 @@ Now that you’ve run through the original lab from Adafruit, let’s try mixing
 
 1. What blocks the signal?
 2. What happens when you put your phone between your seeker and the hidden ornament?
+
+{{% resource_link "b1c4963b-9524-48e0-811a-9bfe74b34e14" "Test Question Answers" %}}
