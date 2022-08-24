@@ -2,7 +2,7 @@
 content_type: page
 description: Answers to questions in the bluetooth hide and seek experiment.
 draft: false
-title: Test Question Answers
+title: Bluetooth Hide & Seek | Test Question Answers
 uid: b1c4963b-9524-48e0-811a-9bfe74b34e14
 ---
 1. **What blocks the signal?**  
