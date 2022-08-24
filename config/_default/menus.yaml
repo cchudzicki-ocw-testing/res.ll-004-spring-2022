@@ -65,3 +65,13 @@ leftnav:
   parent: 06021acd-609a-416e-8442-4ee43941eded
   url: /pages/nuclear-engineering
   weight: 90
+- identifier: d8b3e398-0180-4d5f-b9e9-b4cd00e89ac1
+  name: Software Engineering
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  url: /pages/software-engineering
+  weight: 100
+- identifier: 7c445ba5-1b4c-4962-a54d-e74fc4db0058
+  name: Community-Focused Engineering Societies
+  parent: 06021acd-609a-416e-8442-4ee43941eded
+  url: /pages/community-focused-engineering-societies
+  weight: 110
