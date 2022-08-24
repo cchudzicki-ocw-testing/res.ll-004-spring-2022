@@ -138,3 +138,8 @@ leftnav:
   parent: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
   url: /pages/step-4-test
   weight: 40
+- identifier: f3e5ad9a-64a5-40da-aac9-8e3556be1c42
+  name: 'Step 5: Evaluate & Reflect'
+  parent: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
+  url: /pages/bluetooth-hide-seek-step-5-evaluate-reflect
+  weight: 50
