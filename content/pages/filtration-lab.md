@@ -64,3 +64,13 @@ Now that the problem is laid out and the available materials and costs are known
 > Figure 1. Example filtration system sketches (Label your levels based on your design)
 
 If you’re doing this activity with a class, take some time to discuss each team’s paper prototypes. After discussing with the class, you can revise your paper prototypes if you have new ideas. If you are just doing this activity by yourself, you can discuss your paper prototype with a friend or family member, explain to them why you made the decisions you made, and then make revisions.
+
+## Step 4: Build
+
+Now it’s time to build the filtration system! You are going to build the “low price” system. As you do, you’ll have to write down how you are building it. Documentation is critical for every engineering project; engineers work in large teams, with team members leaving and joining as the project goes on. With solid documentation, new engineers can easily understand the project, and the client will know how to use the product when your team is done.
+
+***Build*****: Gather the materials listed on your “low price” paper prototype, and construct the system according to your sketch. As you do, write down each step of construction in detail, so that somebody else could do it using just the materials, the sketch, and the step-by-step instructions.**
+
+![Filtration build example](https://courses.llx.edly.io/assets/courseware/v1/5a1e73d76ffc1501df06240ed43dfad6/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/FiltrationBuildExample.JPG) ![Filtration build example](https://courses.llx.edly.io/assets/courseware/v1/5f84883b2cdb5243bdc570dd2b75d243/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/FiltrationBuildExample2.JPG)
+
+Figure 2. An experiment setup: filtration system (above) and mixed material(s) to filter (below)
