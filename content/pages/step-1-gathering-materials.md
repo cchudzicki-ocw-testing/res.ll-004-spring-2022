@@ -2,7 +2,7 @@
 content_type: page
 description: Instructions for the bluetooth hide and seek experiment.
 draft: false
-title: 'Step 1: Gathering Materials'
+title: 'Bluetooth Hide & Seek | Step 1: Gathering Materials'
 uid: 8407b28f-514f-467f-9518-ce8c4862da83
 ---
 Before you can start, you will need to gather the supplies. This experiment uses an Adafruit kit, specifically the [Bluefruit Playground Hide and Seek kit](https://learn.adafruit.com/hide-n-seek-bluefruit-ornament). Adafruit is a company that builds education prototyping electronics. The kit that we will be working with for this experiment can be purchased in pieces for $32.85 per kit from the [Adafruit website](https://learn.adafruit.com/hide-n-seek-bluefruit-ornament?view=all).
