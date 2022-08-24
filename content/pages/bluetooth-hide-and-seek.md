@@ -40,3 +40,5 @@ For our experiment, we are going to take the concept of Bluetooth-based proximit
 1. Where are some of the places that you use Bluetooth?
 2. Have you ever had the audio from your Bluetooth device cut out? When does that happen? Why do you think it happens?
 3. What specific apps do you think use Bluetooth to trade data of some sort? What kind of data do they share?
+
+{{% resource_link "0e56291f-8ed0-4732-aa96-38746b8871a0" "Test Your Knowledge on Bluetooth Answers" %}}
