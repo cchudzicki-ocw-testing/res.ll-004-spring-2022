@@ -2,7 +2,7 @@
 content_type: page
 description: Instructions for the bluetooth hide and seek experiment.
 draft: false
-title: 'Step 4: Test'
+title: 'Bluetooth Hide & Seek | Step 4: Test'
 uid: 9b034a01-d976-4217-8c76-105b4845c620
 ---
 The **Test** phase of the experiment can be done several ways. The first is to go through this lesson with your friends. Next, you can try finding each other in real time for a modern game of hide and seek. Or, have someone else hide a programmed board while you try to locate it with your own board. 
