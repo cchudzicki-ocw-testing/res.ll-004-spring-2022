@@ -85,12 +85,32 @@ leftnav:
   url: /pages/filtration-experiment-overview
   weight: 10
 - identifier: e9aec624-1e21-4d0f-9d6d-c268a838aac4
-  name: Filtration Lab Steps
+  name: 'Step 1: Understanding the Problem'
   parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
   url: /pages/filtration-lab
   weight: 20
+- identifier: 13590617-2b83-409d-a7ea-2d3baee083aa
+  name: 'Step 2: Constraints & Materials'
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  url: /pages/filtration-lab-step-2-considering-constraints-gathering-materials
+  weight: 30
+- identifier: d8ddf1dc-54ee-4fd5-a9dc-f79c5b05c96a
+  name: 'Step 3: Design'
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  url: /pages/filtration-lab-step-3-design
+  weight: 40
+- identifier: 1c2c1701-c3ff-41e9-87c1-2d5cdd0ddcda
+  name: 'Step 4: Build'
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  url: /pages/filtration-lab-step-4-build
+  weight: 50
+- identifier: 60808d45-9eae-40e0-a1f5-7fb75654e877
+  name: 'Step 5: Experiment & Evaluate'
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  url: /pages/filtration-lab-step-5-experiment-evaluate
+  weight: 60
 - identifier: 7ecd036d-e3a5-406c-84d2-8a0bb19d9e33
-  name: Reflection
+  name: 'Step 6: Reflect'
   parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
   url: /pages/reflect
-  weight: 30
+  weight: 70
