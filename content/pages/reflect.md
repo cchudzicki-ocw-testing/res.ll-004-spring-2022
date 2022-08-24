@@ -2,7 +2,7 @@
 content_type: page
 description: Reflection questions for the filtration lab.
 draft: false
-title: Reflect
+title: 'Filtration Lab | Step 6: Reflect'
 uid: 7ecd036d-e3a5-406c-84d2-8a0bb19d9e33
 ---
 Finally, take some time to write down answers for the following questions. Even if you are not in a classroom, this is an important step. Just like **Understanding**, **Designing**, **Building**, and **Evaluating**, the act of **Reflection** is critical for an engineer. It prevents us from making the same mistakes twice, and allows us to build on our successes.
