@@ -89,3 +89,8 @@ leftnav:
   parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
   url: /pages/filtration-lab
   weight: 20
+- identifier: 7ecd036d-e3a5-406c-84d2-8a0bb19d9e33
+  name: Reflection
+  parent: c8ec28a0-d66c-41c4-9bfc-606e6768c0fd
+  url: /pages/reflect
+  weight: 30
