@@ -2,7 +2,7 @@
 content_type: page
 description: Instructions for the bluetooth hide and seek experiment.
 draft: false
-title: 'Step 3: Experiment'
+title: 'Bluetooth Hide & Seek | Step 3: Experiment'
 uid: 9f4db52d-e364-493f-9f8e-fb69b7a865df
 ---
 Let's figure out how to use the ornaments.    
