@@ -27,6 +27,10 @@ leftnav:
   name: 'Experiment: Clausewitzian Chess'
   url: /pages/clausewitzian-chess-introduction
   weight: 70
+- identifier: 23670d09-03c7-49d6-90c5-1951aedb0f8c
+  name: Conclusion
+  url: /pages/conclusion
+  weight: 80
 - identifier: 9339e88d-fbfa-492e-82c4-080fdf00664d
   name: Core STEM Fields
   parent: 07d0c681-2cf0-4241-b8a9-b1865b183e42
