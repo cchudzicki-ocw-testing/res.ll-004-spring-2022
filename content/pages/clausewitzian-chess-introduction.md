@@ -31,3 +31,5 @@ You will set up three different scenarios to experiment with. But before 
 1. How much does strategy in chess rely on having a standard chess board with traditional pieces?
 2. If traditional chess tactics rely on having certain pieces start in set squares and move in fixed ways, what would happen if this was not necessary? How might your strategy change?
 3. How does having only partial information change the way you act?
+
+{{% resource_link "9d343b6d-5769-449a-96fc-62efbd0f00e1" "Test Your Knowledge on Chess Answers" %}}
