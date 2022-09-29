@@ -7,7 +7,8 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: Photographs (from left to right) of a MicroUSB cable end, USB Type A
+    port, USB Type B cable end, and USB Type C cable end.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
