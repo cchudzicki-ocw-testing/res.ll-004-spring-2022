@@ -55,4 +55,4 @@ Software engineers bring the application of engineering concepts for software de
 
 #### **Sources:**
 
-Wikipedia, [tryengineering.org](https://studio.llx.edly.io/container/tryengineering.org) (IEEE), [Engineering Conferences 2022/2023/2024](https://conferenceindex.org/conferences/engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
+Wikipedia, [Try Engineering (IEEE)](tryengineering.org), [Engineering Conferences 2022/2023/2024](https://conferenceindex.org/conferences/engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
