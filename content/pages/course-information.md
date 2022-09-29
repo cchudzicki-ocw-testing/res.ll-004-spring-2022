@@ -9,8 +9,8 @@ Welcome to “Introduction to Engineering Concepts," a lesson that will introduc
 
 To accomplish these goals, we invited several subject matter experts from across MIT Lincoln Laboratory (LL) to discuss their involvement in interesting, topical projects. Our in-lesson experiments were inspired by three of these projects and demonstrate the real and varied possibilities of engineering:
 
-- Filtration lab inspired by MIT LL’s study with Homeland Security on the spread of COVID in New York’s public transportation system ([Biotechnology and Human Systems](https://www.ll.mit.edu/r-d/biotechnology-and-human-systems))
-- Bluetooth tag lab derived from the Privacy Automated Contact Tracing (PACT) project ([Cyber Security & Information Sciences](https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences))
+- Filtration lab inspired by MIT LL’s study with Homeland Security on the spread of COVID in New York’s public transportation system ([Biotechnology and Human Systems](https://www.ll.mit.edu/r-d/biotechnology-and-human-systems)).
+- Bluetooth tag lab derived from the Privacy Automated Contact Tracing (PACT) project ([Cyber Security & Information Sciences](https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences)).
 - Clausewitzian chess lab is adopted from a MIT LL gamified multi-domain adaptive warfare study ([Homeland Protection](https://www.ll.mit.edu/r-d/homeland-protection)). 
 
 Most importantly, we ask you to bring your personal expression to the experiments in this lesson. Engineering is an art and like any art, everyone brings their own perspective and ideas.
