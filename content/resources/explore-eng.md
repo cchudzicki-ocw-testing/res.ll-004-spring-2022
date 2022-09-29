@@ -7,7 +7,10 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: 'Engineering development process diagram with steps arranged in a circle.
+    1 - Defining the problem. 2 - Identify your resources. 3 - Research existing solutions.
+    4 - Select an approach and develop an experiment plan. 5 - Develop your prototype.
+    6 - Document your prototype. Arrow connecting 6 to 1. '
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
