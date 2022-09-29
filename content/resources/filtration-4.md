@@ -7,7 +7,8 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: 'Left, a glass jar whose opening is covered by a paper towel kept in
+    place with a rubber band. Right, a plastic tub with murky liquid and contaminants. '
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
