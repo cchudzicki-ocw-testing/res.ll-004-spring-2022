@@ -7,9 +7,7 @@ uid: 745d7c97-71de-46d8-81dc-859108b06bd8
 ---
 Welcome to the **MIT Lincoln Laboratory** introduction to the engineering discipline. In this course, we will illustrate the many ways that an engineering degree can be used, not only in an engineering career, but in a wide array of technical and scientific careers. What makes this course unique is the set of examples we will be using. **These examples are actual projects that MIT Lincoln Laboratory engineers have completed!** We will use these projects to demonstrate how engineering provides a wonderful, skill-based foundation for a host of disciplines.
 
-## ***{{Course Introduction Video:***
-
-[***https://bwsix-videos.mit.edu/videos/LLEduCATE/523040_LL_Educate_Overview_C_comp.webm***](https://bwsix-videos.mit.edu/videos/LLEduCATE/523040_LL_Educate_Overview_C_comp.webm)***}}*** 
+## ***{Video}*** 
 
 So, first, what is engineering? Here’s what the Oxford Languages Dictionary says:
 
