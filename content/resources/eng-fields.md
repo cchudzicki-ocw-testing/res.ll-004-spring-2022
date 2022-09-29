@@ -7,7 +7,9 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: Central bar stating 'Diverse Engineering Fields' with branches of computer
+    science, software, electrical, data science, civil, mechanical, nuclear, bioengineering,
+    chemical, and environmental and matching icons for each branch.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
