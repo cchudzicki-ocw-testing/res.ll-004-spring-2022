@@ -7,7 +7,13 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: Left, chess board. Second to top row has white Pawn, _, Pawn, _, Pawn,
+    Pawn, _, Pawn. Second to bottom row has black Rook, _, Queen, Knight, _, Queen,
+    _, Rook. Bottom row has black _, Bishop, _, _, Rook, King, _, _. Right, chess
+    board. Top row is empty except for a black Rook in the space fourth from the left.
+    Second to top row has black Rook, _, Queen, _, _, Queen, _, Rook. Second to bottom
+    row is filled with white Pawns. Bottom row is white Bishop, Pawn, Pawn, Pawn,
+    King, Pawn, Knight, Bishop.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
