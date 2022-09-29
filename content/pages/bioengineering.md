@@ -39,10 +39,10 @@ This field covers a wide range of engineering fields, from prosthetics to medica
 - [Association for the Advancement of Medical Instrumentation](https://www.aami.org/): A non-profit organization focusing on the development, management, and use of safe and effective healthcare technology.
 - [Biomedical Engineering Society](http://www.bmes.org/): A professional society for biomedical engineering and bioengineering.
 - [Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/): A professional organization focused on making sure patients are correctly diagnosed and safely treated.
-- International Federation for Medical and Biological Engineering: A federation of national and transnational societies and non-governmental organizations for the United Nations and the World Health Organization focused on delivery of healthcare to the world.
-- §  [International Society for Prosthetics and Orthotics](http://www.ispoint.org/): A global multidisciplinary non-governmental organization aiming to improve the quality of life for persons who may benefit from prosthetic, orthotic, mobility, and assistive devices.
-- §  [Society for Biomaterials](https://www.biomaterials.org/): Interdisciplinary specialties including tissue engineering, nanotechnology, orthopedic polymers, dental implants, and drug delivery mechanisms.
-- §  [IEEE Engineering in Medicine and Biology Society](http://www.embs.org/): The world’s largest international society for biomedical engineers, providing its 11,000 members with access to information, ideas, and opinions that are shaping one of the fastest growing fields in science.
+- [International Federation for Medical and Biological Engineering](https://ifmbe.org/): A federation of national and transnational societies and non-governmental organizations for the United Nations and the World Health Organization focused on delivery of healthcare to the world.
+- [International Society for Prosthetics and Orthotics](http://www.ispoint.org/): A global multidisciplinary non-governmental organization aiming to improve the quality of life for persons who may benefit from prosthetic, orthotic, mobility, and assistive devices.
+- [Society for Biomaterials](https://www.biomaterials.org/): Interdisciplinary specialties including tissue engineering, nanotechnology, orthopedic polymers, dental implants, and drug delivery mechanisms.
+- [IEEE Engineering in Medicine and Biology Society](http://www.embs.org/): The world’s largest international society for biomedical engineers, providing its 11,000 members with access to information, ideas, and opinions that are shaping one of the fastest growing fields in science.
 
 ### Conferences:
 
@@ -56,4 +56,4 @@ This field covers a wide range of engineering fields, from prosthetics to medica
 
 #### Sources
 
-§  Wikipedia, [tryengineering.org](https://studio.llx.edly.io/container/tryengineering.org) (IEEE), [Engineering Conferences 2022/2023/2024](https://conferenceindex.org/conferences/engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
+Wikipedia, [tryengineering.org](https://studio.llx.edly.io/container/tryengineering.org) (IEEE), [Engineering Conferences 2022/2023/2024](https://conferenceindex.org/conferences/engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
