@@ -38,7 +38,7 @@ Computer science is the study of computers and computing and their theoretical a
 
 - [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org): The technical objectives of the IEEE focus on advancing the theory and practice of electrical, electronics, and computer engineering as well as computer science. 
 - [Association for Computing Machinery (ACM)](http://acm.org/): ACM, the world's largest educational and scientific computing society, delivers resources that advance computing as a science and a profession.
-- ACM Special Interest Groups (SIGs): 38 groups dedicated to specific topics in computer science and software engineering
+    - [ACM Special Interest Groups (SIGs)](https://www.acm.org/special-interest-groups/alphabetical-listing): 38 groups dedicated to specific topics in computer science and software engineering
 - [Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/): nonprofit scientific society devoted to advancing the scientific understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines.
 - [Association for Women in Computing (AWC)](https://www.awc-hq.org/): one of the first professional organizations for women in computing focused on promoting the advancement of women in the computing professions.
 - [Computing Research Association](http://cra.org/): Mission is to enhance innovation by joining with industry, government and academia to strengthen research and advanced education in computing.
