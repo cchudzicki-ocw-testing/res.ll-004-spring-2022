@@ -7,7 +7,9 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: Left, glass jar containing murky liquid with the top covered with a paper
+    towel secured by a rubber band. Right, glass jar containing murky liquid with
+    a sieve over the opening.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
