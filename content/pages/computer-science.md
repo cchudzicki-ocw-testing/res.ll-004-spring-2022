@@ -43,9 +43,9 @@ Computer science is the study of computers and computing and their theoretical a
 - [Association for Women in Computing (AWC)](https://www.awc-hq.org/): one of the first professional organizations for women in computing focused on promoting the advancement of women in the computing professions.
 - [Computing Research Association](http://cra.org/): Mission is to enhance innovation by joining with industry, government and academia to strengthen research and advanced education in computing.
 - [American Society for Information Science and Technology (ASIS&T)](https://www.asist.org/): (ASIS&T is the preeminent professional association that bridges the gap between information science practice and research. ASIS&T members represent the fields of information science, computer science, linguistics, management, librarianship, engineering, data science, information architecture, law, medicine, chemistry, education, and related technology.
-- Society for Industrial and Applied Mathematics (SIAM): advance the application of mathematics and computational science to engineering, industry, science, and society. Research areas include computational science and numerical analysis, control and systems theory, data science, classical applied math, imaging sciences, and life sciences.
+- [Society for Industrial and Applied Mathematics (SIAM)](https://www.siam.org/): advance the application of mathematics and computational science to engineering, industry, science, and society. Research areas include computational science and numerical analysis, control and systems theory, data science, classical applied math, imaging sciences, and life sciences.
 
-### o   Conferences:
+### Conferences:
 
 - [ACM Symposium on Computer and Communications Security](https://dl.acm.org/conference/ccs)
 - DSN - [International Conference on Dependable Systems and Networks](https://en.wikipedia.org/wiki/International_Conference_on_Dependable_Systems_and_Networks)
@@ -61,4 +61,4 @@ Computer science is the study of computers and computing and their theoretical a
 
 ### Sources
 
-Wikipedia, [tryengineering.org](https://studio.llx.edly.io/container/tryengineering.org) (IEEE), [Computer Science Conferences 2022/2023/2024](https://conferenceindex.org/conferences/computer-science), US News: What Can You Do With a Comp Sci Degree?, Encyclopedia Britannica, [Texas Wesleyan Computer Science Professional Associations](https://txwes.libguides.com/c.php?g=829143&p=5934266), professional association websites
+Wikipedia, [Try Engineering (IEEE)](tryengineering.org), [Computer Science Conferences 2022/2023/2024](https://conferenceindex.org/conferences/computer-science), US News: What Can You Do With a Comp Sci Degree?, Encyclopedia Britannica, [Texas Wesleyan Computer Science Professional Associations](https://txwes.libguides.com/c.php?g=829143&p=5934266), professional association websites
