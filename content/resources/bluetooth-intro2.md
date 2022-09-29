@@ -7,7 +7,13 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: Series of logos. CSAIL, Massachusetts General Hospital, Lincoln Laboratory,
+    MIT Internet Policy Research Initiative, MIT Media Lab, Boston University, Weizmann
+    Institute of Science, COVID SafePaths, Brown, DARPA, Air Force Research Laboratory,
+    ARL, NREC, Carnegie Mellon University, Draper Laboratory, Lawrence Livermore National
+    Laboratory, MassRobotics, MITRE, Northeastern, Qualcomm, Raytheon, Sandia National
+    Laboratories, Government Digital Services Singapore, Systems & Technology Research,
+    WPI, Waypoint Robotos, White Sands Missile Range.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
