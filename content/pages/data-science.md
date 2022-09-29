@@ -38,7 +38,7 @@ Data science is the collection, analysis, and interpretation of data to drive in
 - [Association of Data Scientists](http://adasci.org/): Association of Data Scientists is the premier global professional body of data science & machine learning professionals, and will lead in the development, dissemination and implementation of knowledge, basic and applied research and technologies in analytics, decision-making, and management.
 - [Data Science Association](https://www.datascienceassn.org/): The Data Science Association is a non-profit professional association of data scientists that serves our members, improving the data science profession, eliminating bias and enhancing diversity, and advancing ethical data science throughout the world. 
 - [INFORMS](https://www.informs.org/)**:** INFORMS is a vibrant community of data science, analytics, and operations research professionals. Our members are solving problems, finding solutions, and making a difference in how the world works.
-- Society for Industrial and Applied Mathematics (SIAM): Advance the application of mathematics and computational science to engineering, industry, science, and society. Research areas include computational science and numerical analysis, control and systems theory, data science, classical applied math, imaging sciences, and life sciences.
+- [Society for Industrial and Applied Mathematics (SIAM)](https://www.siam.org/): Advance the application of mathematics and computational science to engineering, industry, science, and society. Research areas include computational science and numerical analysis, control and systems theory, data science, classical applied math, imaging sciences, and life sciences.
 
 ### **Conferences:**
 
