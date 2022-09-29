@@ -7,7 +7,9 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: Left, filtration system 1 with a trapezoid colored (from top to bottom)
+    with white, navy, and orange. Right, filtration system 2 with a trapezoid colored
+    (from top to bottom) with yellow, light blue, and green.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
