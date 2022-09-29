@@ -32,10 +32,10 @@ Check the king three times without capturing it. (A check lasts until the king m
 {{< tdclose >}}{{< tdopen >}}
 Capture more pieces than your opponent by the end of the game. 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-**Most Material**   
+**Most Material**    
  
 {{< tdclose >}}{{< tdopen >}}
-Capture the most points worth of pieces by the end of the game. (See value for each piece under Piece Configuration settings, described below.)   
+Capture the most points worth of pieces by the end of the game. (See value for each piece under Piece Configuration settings, described below.)    
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -52,7 +52,7 @@ For the second concept, there are two color of pieces, black and white, in the g
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 **Pawn**
 {{< tdclose >}}{{< tdopen >}}
-{{< resource uuid="0cefd0b1-317a-4f7b-8632-699bb635a776" >}}
+{{< resource uuid="07c6de9e-7dda-4365-a793-8469c57fcdae" >}}
 {{< tdclose >}}{{< tdopen >}}
 
 One square forward at a time with diagonal attack, with two movement exceptions: 
@@ -98,7 +98,7 @@ The queen can move any number of squares in any direction (straight or diagonal)
 {{< tdclose >}}{{< tdopen >}}
 ![Black king](https://courses.llx.edly.io/assets/courseware/v1/62e5e6131903ebddc0f2be313cb0da03/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/king-black.png)![White king](https://courses.llx.edly.io/assets/courseware/v1/85bbd7253679495e6423a87b922b3595/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/king-white.png)
 {{< tdclose >}}{{< tdopen >}}
-One square in any direction as long as the new location is not under attack. The king can do a special move called castling but you don’t have to worry about that here as that feature is not supported.   
+One square in any direction as long as the new location is not under attack. The king can do a special move called castling but you don’t have to worry about that here as that feature is not supported.    
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
