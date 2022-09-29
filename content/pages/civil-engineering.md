@@ -52,4 +52,4 @@ You may ask how are roads and bridges built? Well, the answer is civil engineeri
 
 #### Sources
 
-Wikipedia, [tryengineering.org](https://studio.llx.edly.io/container/tryengineering.org) (IEEE), [Civil Engineering Conferences 2022/2023/2024](https://conferenceindex.org/conferences/civil-engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
+Wikipedia, [Try Engineering (IEEE)](https://tryengineering.org/), [Civil Engineering Conferences 2022/2023/2024](https://conferenceindex.org/conferences/civil-engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
