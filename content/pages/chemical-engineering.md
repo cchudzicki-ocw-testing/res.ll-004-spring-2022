@@ -24,7 +24,7 @@ The field of chemical engineering offers unique opportunities to make a real dif
 - Nanotechnology
 - Paper
 
-### o   Skills:
+### Skills:
 
 - Math (statistics, advanced algebra, calculus, trigonometry, geometry)
 - Sciences (chemistry, biology, molecular biology, physics)
@@ -34,7 +34,7 @@ The field of chemical engineering offers unique opportunities to make a real dif
 - Fluid dynamics
 - Heat and mass transfer
 
-### o   Societies:
+### Societies:
 
 - [American Chemical Society (ACS)](http://www.acs.org/): The society is recognized as a world leader in fostering scientific education and research and promoting public understanding of science.
 - [American Institute of Chemical Engineers (AIChE)](http://www.aiche.org/): AIChE promotes excellence in chemical engineering education and global practice.
@@ -51,4 +51,4 @@ The field of chemical engineering offers unique opportunities to make a real dif
 
 #### Sources
 
-Wikipedia, [tryengineering.org](https://studio.llx.edly.io/container/tryengineering.org) (IEEE), [Chemical Engineering Conferences 2022/2023/2024](https://conferenceindex.org/conferences/chemical-engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
+Wikipedia, [Try Engineering (IEEE)](https://tryengineering.org/), [Chemical Engineering Conferences 2022/2023/2024](https://conferenceindex.org/conferences/chemical-engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
