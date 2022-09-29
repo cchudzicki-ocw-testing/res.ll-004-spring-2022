@@ -7,7 +7,9 @@ uid: 9e9395c3-ad31-4842-9588-1f844d8c3550
 ---
 Leveraging simple, well-known games can help us to model complex cognitive concepts through designing modified versions of the game and its rules. This is what a team at Lincoln Laboratory did with [Clausewitzian Chess](https://github.com/mit-ll/Clausewitzian_Chess), which is based on the game of chess, and you will do the same in this exercise.
 
-You might already be familiar with how chess works but even if you are not, we will provide all the relevant background that you will need in this exercise. Consider that there are several kinds of chess pieces (bishop, knight, rook, etc.), and each of them moves in specific ways. For example, rooks only move in straight lines. In traditional chess, both players have the same pieces and can see what the other person is doing. *Sounds like a given, right? What if it wasn’t? What if you can only see up to a certain number of positions near you?\]*
+You might already be familiar with how chess works but even if you are not, we will provide all the relevant background that you will need in this exercise. Consider that there are several kinds of chess pieces (bishop, knight, rook, etc.), and each of them moves in specific ways. For example, rooks only move in straight lines. In traditional chess, both players have the same pieces and can see what the other person is doing. 
+
+*Sounds like a given, right? What if it wasn’t? What if you can only see up to a certain number of positions near you?*
 
 The idea behind Clausewitzian Chess is that you don’t always know everything about a given situation. In other words, both sides aren’t on exactly the same footing (in this case, starting with the same number and type of pieces) and you can’t see the full picture (in this case, the full board). Think of the Battleship game where you slowly learn more about your enemy’s location based on your guesses. 
 
