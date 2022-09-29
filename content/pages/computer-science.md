@@ -61,4 +61,4 @@ Computer science is the study of computers and computing and their theoretical a
 
 ### Sources
 
-Wikipedia, [Try Engineering (IEEE)](tryengineering.org), [Computer Science Conferences 2022/2023/2024](https://conferenceindex.org/conferences/computer-science), US News: What Can You Do With a Comp Sci Degree?, Encyclopedia Britannica, [Texas Wesleyan Computer Science Professional Associations](https://txwes.libguides.com/c.php?g=829143&p=5934266), professional association websites
+Wikipedia, [Try Engineering (IEEE)](tryengineering.org), [Computer Science Conferences 2022/2023/2024](https://conferenceindex.org/conferences/computer-science), [US News: What Can You Do With a Comp Sci Degree?](https://www.usnews.com/education/best-graduate-schools/articles/2019-05-02/what-can-you-do-with-a-computer-science-degree), Encyclopedia Britannica, [Texas Wesleyan Computer Science Professional Associations](https://txwes.libguides.com/c.php?g=829143&p=5934266), professional association websites
