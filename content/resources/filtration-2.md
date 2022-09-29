@@ -7,7 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: A table showing paper cups, toothpicks, cotton balls, flour, potting
+    mix, a strainer, spoons, measuring spoons, a bowl, and two containers of powders.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
