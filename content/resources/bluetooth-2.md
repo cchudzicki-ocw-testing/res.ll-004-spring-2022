@@ -7,7 +7,8 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: Photograph of computer chip with the USB connector, On/Off LED, LED color
+    select buttons, selector switch, battery connector, and LEDs labeled.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
