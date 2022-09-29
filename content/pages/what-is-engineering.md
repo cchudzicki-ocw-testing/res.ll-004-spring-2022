@@ -8,9 +8,6 @@ uid: 07d0c681-2cf0-4241-b8a9-b1865b183e42
 ---
 ## {{IMAGE}}
 
-   
- 
-
 Engineering is an iterative process where you can reevaluate as you generate new results and gather more observations from your prototyping and testing. Effective engineering starts by considering the intended audience or customer’s needs. This “why” helps you define the “how” as you generate the goals of your research or product development.  
 
 For example, a person goes to the local hardware store and asks for a drill for their home improvement project. What the customer actually needs is a hole. The drill is the tool to fulfill that need. 
@@ -37,11 +34,11 @@ Some questions to consider are: 
 
 Test out your ideas on paper or a whiteboard, particularly with others. While schools usually assign individual work, engineering usually involves teams and these steps work well with groups since you can bounce ideas off of your teammates. Take some time to see which of your initial concepts are a practical fit to solve your problem and answer your question. If the idea fits and the trade-offs are acceptable, then you have the beginning of a prototype to work off of. 
 
-### ***Step 5. Develop Your Prototype*** 
+### ***Step 5. Develop Your Prototype***
 
 As you can see, a big part of engineering is the lead-up to actually experimenting. These first steps allow you to be a more effective and targeted engineer/researcher and ensure that what you’re developing is going to be both useful and novel. The forethought and brainstorming that you’ve spent time on here will also save you time later in the process. Now that you have a solid idea and plan, you can delve into the technical, using the most appropriate medium (potentially programming) to develop your prototype. Depending on your desired end project this prototype can be virtual (e.g., code), physical (e.g., lab work), or a mesh of the two (e.g., embedded systems, radars, etc.).
 
-### ***Step 6. Document Your Prototype*** 
+### ***Step 6. Document Your Prototype***
 
 Once you’ve developed your prototype, make sure to create documentation. Even though this is often presented as a less exciting part of the process, it’s very helpful for you, your co-developers, and others who might want to use it. The knowledge might be fresh in your mind now, but it won’t always be. Say you turn your attention to another project and come back to your prototype a year later. What might have seemed obvious then probably isn’t at the forefront of your mind anymore. That’s where documentation can be helpful. Good documentation is clear, comprehensive, states assumptions, and can be used to both introduce people and to refresh their memory of your prototype.
 
