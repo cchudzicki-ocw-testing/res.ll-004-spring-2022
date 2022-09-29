@@ -7,7 +7,8 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: Chess board with only white pieces. Second to bottom row is all Pawns.
+    Bottom row is _, Rook, Bishop, King, King, Knight, Rook.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
