@@ -7,7 +7,10 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: Left, table decorated with festive elements. One lit ornament is hanging
+    on a garland, another is sitting in a bowl, and a third is being held in a hand.
+    Right, same scene, except the hand has moved and the ornament is now a different
+    color.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
