@@ -5,18 +5,13 @@ draft: false
 title: 'Bluetooth Hide & Seek | Step 1: Gathering Materials'
 uid: 8407b28f-514f-467f-9518-ce8c4862da83
 ---
-Before you can start, you will need to gather the supplies. This experiment uses an Adafruit kit, specifically the [Bluefruit Playground Hide and Seek kit](https://learn.adafruit.com/hide-n-seek-bluefruit-ornament). Adafruit is a company that builds education prototyping electronics. The kit that we will be working with for this experiment can be purchased in pieces for $32.85 per kit from the [Adafruit website](https://learn.adafruit.com/hide-n-seek-bluefruit-ornament?view=all).
+Before you can start, you will need to gather the supplies. This experiment uses an Adafruit kit, specifically the [Bluefruit Playground Hide and Seek kit](https://learn.adafruit.com/hide-n-seek-bluefruit-ornament). Adafruit is a company that builds education prototyping electronics. The kit that we will be working with for this experiment can be purchased in pieces for $32.85 per kit from the [Adafruit website](https://learn.adafruit.com/hide-n-seek-bluefruit-ornament?view=all). 
 
- 
+{{< resource uuid="a9d50d52-9e7b-4475-8647-2f695c3ca957" >}}
 
-![Adafruit Circuit Playground Bluefruit](https://courses.llx.edly.io/assets/courseware/v1/c5ce35d38a279fbd3959172c5582f6a9/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/circuit-playground-bluefruit.jpg)![Circuit Ornament Kit](https://courses.llx.edly.io/assets/courseware/v1/42e6a93da595cf96861308c2a8feb552/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/circuit-ornament-kit.jpg) 
+Additionally, the kit does not come with a USB cable so you may need to acquire one. When searching, be mindful of the type of USB cable. Make sure that one side is MicroUSB, which is needed for the Adafruit board. For the other end of the cable, you will have to see what type of ports your computer has; it is typically a USB Type-A port but for newer Macs, you may only have USB Type-C ports. If you had an Android smartphone, you might find that you have one of these cables already and can just reuse for this purpose. 
 
- 
-
-Additionally, the kit does not come with a USB cable so you may need to acquire one. When searching, be mindful of the type of USB cable. Make sure that one side is MicroUSB, which is needed for the Adafruit board. For the other end of the cable, you will have to see what type of ports your computer has; it is typically a USB Type-A port but for newer Macs, you may only have USB Type-C ports. If you had an Android smartphone, you might find that you have one of these cables already and can just reuse for this purpose.
-
-![MicroUSB cable end](https://courses.llx.edly.io/assets/courseware/v1/926d0009fe7f8c6454cf59cd17f98d2a/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/microusb.png) ![USB Type A Port](https://courses.llx.edly.io/assets/courseware/v1/79bc329e607d27f99d70059f6406bb06/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/usb-type-a.png) ![USB Type B cable end](https://courses.llx.edly.io/assets/courseware/v1/f0afa3710d77d16f6832da61bde3fe81/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/usb-type-b.png) ![USB Type C cable end](https://courses.llx.edly.io/assets/courseware/v1/ed2da202764ab040094586120f26ec14/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/usb-type-c.png)  
- 
+{{< resource uuid="79d8e9db-786d-4572-92f3-62003002f298" >}}
 
 The pictures above show the following (in this order): MicroUSB cable end, USB Type A port, USB Type B cable end, and USB Type C cable end, respectively.
 
@@ -32,7 +27,7 @@ Supplies list: 
 
 If you are waiting on the kit to arrive in the mail, continue with the lesson and come back to this experiment later. You can also skip this lab if you have time constraints. Kits may be available for loan on a case-by-case basis.
 
-For this **Bluetooth Hide and Seek** experiment, the ***Design*** phase is provided for you. The descriptions here will give you a look at an example of good project documentation, which should allow others to recreate and use what you’ve built. You will be taking over the experiment starting at the ***Build*** phase.   
+For this **Bluetooth Hide and Seek** experiment, the ***Design*** phase is provided for you. The descriptions here will give you a look at an example of good project documentation, which should allow others to recreate and use what you’ve built. You will be taking over the experiment starting at the ***Build*** phase.    
  
 
 > **Looking at the Science: What is Radio Frequency?** 
