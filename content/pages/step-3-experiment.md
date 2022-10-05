@@ -5,13 +5,11 @@ draft: false
 title: 'Bluetooth Hide & Seek | Step 3: Experiment'
 uid: 9f4db52d-e364-493f-9f8e-fb69b7a865df
 ---
-Let's figure out how to use the ornaments.    
- 
+Let's figure out how to use the ornaments.   
 
-![Bluefruit device changes color to match when close to another Bluefruit](https://courses.llx.edly.io/assets/courseware/v1/fb6a3359bd599d666556d1483c76f323/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/bluefruit-proximity-1.png) ![Bluefruit device changes color to match when close to another Bluefruit](https://courses.llx.edly.io/assets/courseware/v1/fe2d3351b8abb898da9e1ecf04f07d74/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/bluefruit-proximity-2.png)
+{{< resource uuid="4125b246-d063-4a63-b056-0ffb9f159631" >}}
 
-There are three buttons on the ornament:     
- 
+There are three buttons on the ornament:    
 
 - Middle: On/off 
 - Left: LED color selection for when the ornament is to be hidden 
