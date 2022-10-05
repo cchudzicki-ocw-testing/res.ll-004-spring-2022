@@ -32,10 +32,10 @@ Check the king three times without capturing it. (A check lasts until the king m
 {{< tdclose >}}{{< tdopen >}}
 Capture more pieces than your opponent by the end of the game. 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-**Most Material**     
+**Most Material**      
  
 {{< tdclose >}}{{< tdopen >}}
-Capture the most points worth of pieces by the end of the game. (See value for each piece under Piece Configuration settings, described below.)     
+Capture the most points worth of pieces by the end of the game. (See value for each piece under Piece Configuration settings, described below.)      
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -79,7 +79,11 @@ The knight moves four squares at a time in an ‘L’ pattern. This means that i
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 **Bishop**
 {{< tdclose >}}{{< tdopen >}}
+{{< resource uuid="4dbfcd3a-2237-43f0-92dd-f710440eb714" >}}
+
  
+
+{{< resource uuid="c0131e3b-40be-4bd8-bd27-f2f7550d312f" >}}
 {{< tdclose >}}{{< tdopen >}}
 The bishop moves diagonally. Notice that this means that a bishop that starts on a light or dark square can only move on that color of square. 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -111,7 +115,7 @@ The queen can move any number of squares in any direction (straight or diagonal)
 
 {{< resource uuid="6dad7d84-d183-476e-8d9a-39a7e602f69a" >}}
 {{< tdclose >}}{{< tdopen >}}
-One square in any direction as long as the new location is not under attack. The king can do a special move called castling but you don’t have to worry about that here as that feature is not supported.     
+One square in any direction as long as the new location is not under attack. The king can do a special move called castling but you don’t have to worry about that here as that feature is not supported.      
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
