@@ -6,6 +6,8 @@ draft: false
 title: Community-Focused Engineering Societies
 uid: 7c445ba5-1b4c-4962-a54d-e74fc4db0058
 ---
+{{< resource uuid="911a2a16-5df8-44c3-bf99-3b39c1693d08" >}}
+
 There are a multitude of engineering societies that cover all engineering careers, some of which focus on particular populations. Examples include:
 
 - [Alpha Omega Epsilon](http://www.alphaomegaepsilon.org/): Alpha Omega Epsilon is a professional and social sorority for female engineering and technical science students and alumnae. It promotes ideals and objectives that further the advancement of female engineers and scientists.
