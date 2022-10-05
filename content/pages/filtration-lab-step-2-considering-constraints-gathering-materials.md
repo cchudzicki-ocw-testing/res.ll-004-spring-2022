@@ -37,4 +37,4 @@ Materials to filter: (Pick 1-2)
 - 1 cup of dirt
 - 1 cup of cornmeal ($0.50 per cup)
 
-![Filtration materials example](https://courses.llx.edly.io/assets/courseware/v1/70b76dffef76ef2c0aa8e67a5bec6f25/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/filtration-materials.jpeg)
+{{< resource uuid="8531a58f-ae33-4a81-bc0d-4df57a78d391" >}}
