@@ -15,8 +15,8 @@ Finally, it is time to test the system! Testing is one of the final hurdles befo
 > 4. About three-quarters of the material remains
 > 5. All material remains (like the original muddy water)
 
-You have now successfully built a water filtration system! Take some time to discuss as a class – or with your friends and family – what worked and what did not. If you got a score of 0, what was so successful? If you got a score of 5, what could you have done differently?
+You have now successfully built a water filtration system! Take some time to discuss as a class – or with your friends and family – what worked and what did not. If you got a score of 0, what was so successful? If you got a score of 5, what could you have done differently? 
 
-![A unfiltered experiment setup](https://courses.llx.edly.io/assets/courseware/v1/3e8cf0ba18ca88eb86ce57670842d23f/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/FiltrationBuildExample3.jpeg) ![Post filtration](https://courses.llx.edly.io/assets/courseware/v1/cc0be47db74e957e375595389935a4df/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/postfiltration.jpeg)
+{{< resource uuid="d9330441-0513-4bc3-b457-e542e61bacf5" >}}
 
 > Figure 3. An experiment setup before (above) and after (below) filtration
