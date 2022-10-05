@@ -7,23 +7,13 @@ uid: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
 ---
 The global health crises that began in 2019 brought new uses for existing technology. Specifically, cellular phones have a “find my phone” functionality that uses phone-to-phone Bluetooth chirp communication. This functionality was repurposed for anonymous contact tracing under the [Private Automated Contract Tracing](https://pact.mit.edu/) (PACT) effort. PACT was a collaborative effort by numerous organizations to provide a secure, anonymous, informative way of determining if you (well, your phone) have been in contact with someone who has COVID. Through close collaboration with industry, support for this functionality was built into Apple phones and available on Android phones as an app. 
 
- 
-
- ![PACT logo](https://courses.llx.edly.io/assets/courseware/v1/2f34e66c5450f8a56f5aaa8e732224b4/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/PACT-logo.jpg)
+{{< resource uuid="669fe0a9-cfdb-4b27-b334-fb1acf1cb070" >}}
 
  What is PACT?  
 
- 
-
 [PACT’s](https://pact.mit.edu/wp-content/uploads/2020/05/PACT-Mission-and-Approach-2020-05-19-.pdf) mission is to enhance contact tracing in pandemic response by designing exposure detection functions in personal digital communication devices that have maximal public health utility while preserving privacy. **The PACT team is a partnership among cryptographers, physicians, privacy experts, scientists and engineers**.
 
- 
-
-![PACT sponsors](https://courses.llx.edly.io/assets/courseware/v1/e6f621004c2817df3756251eb837aa14/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/pact-logos-1-v2-1536x134.png)
-
-![PACT working group and partners](https://courses.llx.edly.io/assets/courseware/v1/e45c292a60b2f06bc07ee01d079b944f/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/pact-logos-2-v2-1536x261.jpg)
-
-![Data collection coalition](https://courses.llx.edly.io/assets/courseware/v1/74c696aed5936ed856e3a293036ac078/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/pact-logos-3-v3-1536x361.jpg) 
+{{< resource uuid="906fa1ec-b23c-4731-ae2d-dfa7f1012c11" >}}
 
 Efforts like PACT, which touch thousands of lives, work because of collaboration between many organizations, not to mention the many teams within each of these companies. 
 
