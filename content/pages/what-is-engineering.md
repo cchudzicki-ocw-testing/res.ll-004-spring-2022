@@ -6,7 +6,7 @@ draft: false
 title: Exploring the Engineering Process
 uid: 07d0c681-2cf0-4241-b8a9-b1865b183e42
 ---
-## {{IMAGE}}
+{{< resource uuid="8884164c-8c9a-4466-a3cd-376dca1f1230" >}}
 
 Engineering is an iterative process where you can reevaluate as you generate new results and gather more observations from your prototyping and testing. Effective engineering starts by considering the intended audience or customer’s needs. This “why” helps you define the “how” as you generate the goals of your research or product development.  
 
