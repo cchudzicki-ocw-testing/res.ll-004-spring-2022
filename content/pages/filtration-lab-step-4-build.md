@@ -9,6 +9,6 @@ Now it’s time to build the filtration system! You are going to build the “lo
 
 **Build: Gather the materials listed on your “low price” paper prototype, and construct the system according to your sketch. As you do, write down each step of construction in detail, so that somebody else could do it using just the materials, the sketch, and the step-by-step instructions.**
 
-![Filtration build example](https://courses.llx.edly.io/assets/courseware/v1/5a1e73d76ffc1501df06240ed43dfad6/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/FiltrationBuildExample.JPG) ![Filtration build example](https://courses.llx.edly.io/assets/courseware/v1/5f84883b2cdb5243bdc570dd2b75d243/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/FiltrationBuildExample2.JPG)
+{{< resource uuid="1811a27c-ca55-479c-afc6-1e9a7759c202" >}}
 
 > Figure 2. An experiment setup: filtration system (above) and mixed material(s) to filter (below)
