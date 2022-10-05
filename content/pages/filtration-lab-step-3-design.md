@@ -9,7 +9,7 @@ Now that the problem is laid out and the available materials and costs are known
 
 **Create two different “paper prototypes” for two different filters at a low and high price point. On two pieces of paper, list the materials used, the total cost of the materials, and a sketch of how the materials would fit together to create a filter. On the sketch, indicate where the dirty water enters, and where clean water exits. Finally, write down the pros and cons of each prototype.**
 
-![Example filtration systems](https://courses.llx.edly.io/assets/courseware/v1/e8434151e74ffd55653ea085114fc349/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/ExampleFiltrationSystems.png)
+{{< resource uuid="548a1c81-3716-4b8d-b455-b27a00d8144b" >}}
 
 > Figure 1. Example filtration system sketches (Label your levels based on your design)
 
