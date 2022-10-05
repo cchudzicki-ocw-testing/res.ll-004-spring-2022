@@ -34,3 +34,5 @@ The following pages will explore the following engineering fields. It is not a r
 - Software Engineering 
 
 We will then explore the community-focused engineering societies.
+
+{{< resource uuid="639829a5-7508-4935-93f4-77b9bfb0abdd" >}}
