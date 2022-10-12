@@ -54,11 +54,11 @@ Computer science is the study of computers and computing and their theoretical a
 - SIROCCO - [International Colloquium on Structural Information and Communication Complexity](https://en.wikipedia.org/wiki/International_Colloquium_on_Structural_Information_and_Communication_Complexity)
 - HiPC - [International Conference on High Performance Computing](https://en.wikipedia.org/wiki/International_Conference_on_High_Performance_Computing)
 - SC - [ACM/IEEE Supercomputing Conference](https://en.wikipedia.org/wiki/ACM/IEEE_Supercomputing_Conference)
-- CCGRID - [Cluster, Cloud and Grid Computing](https://en.wikipedia.org/w/index.php?title=Cluster,_Cloud_and_Grid_Computing&action=edit&redlink=1)
+- CCGRID - [Cluster, Cloud and Grid Computing](https://dl.acm.org/conference/ccgrid)
 - SRDS - IEEE [International Symposium on Reliable Distributed Systems](https://en.wikipedia.org/wiki/International_Symposium_on_Reliable_Distributed_Systems)
 - ISCAS - IEEE [International Symposium on Circuits and Systems](https://en.wikipedia.org/wiki/International_Symposium_on_Circuits_and_Systems)
 - ISCA - [International Symposium on Computer Architecture](https://en.wikipedia.org/wiki/International_Symposium_on_Computer_Architecture)
 
 ### Sources
 
-Wikipedia, [Try Engineering (IEEE)](tryengineering.org), [Computer Science Conferences 2022/2023/2024](https://conferenceindex.org/conferences/computer-science), [US News: What Can You Do With a Comp Sci Degree?](https://www.usnews.com/education/best-graduate-schools/articles/2019-05-02/what-can-you-do-with-a-computer-science-degree), Encyclopedia Britannica, [Texas Wesleyan Computer Science Professional Associations](https://txwes.libguides.com/c.php?g=829143&p=5934266), professional association websites
+Wikipedia, [Try Engineering (IEEE)](http://tryengineering.org), [Computer Science Conferences 2022/2023/2024](https://conferenceindex.org/conferences/computer-science), [US News: What Can You Do With a Comp Sci Degree?](https://www.usnews.com/education/best-graduate-schools/articles/2019-05-02/what-can-you-do-with-a-computer-science-degree), Encyclopedia Britannica, [Texas Wesleyan Computer Science Professional Associations](https://txwes.libguides.com/c.php?g=829143&p=5934266), professional association websites
