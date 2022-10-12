@@ -7,7 +7,8 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: Drawing of a person in a box, surrounded by other boxes depicting satellites,
+    windmills, robots, computers, a plane, city buildings, and a tree.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
