@@ -2,7 +2,11 @@
   "term": "Spring",
   "year": "2022",
   "level": [],
-  "topics": [],
+  "topics": [
+    [
+      "Engineering"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
