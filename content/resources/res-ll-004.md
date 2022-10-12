@@ -5,7 +5,7 @@ draft: false
 file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/res-ll-004.jpg
 file_type: image/jpeg
 image_metadata:
-  caption: ''
+  caption: This course introduces learners to several different fields in engineering.
   credit: ''
   image-alt: Central bar stating 'Diverse Engineering Fields' with branches of computer
     science, software, electrical, data science, civil, mechanical, nuclear, bioengineering,
