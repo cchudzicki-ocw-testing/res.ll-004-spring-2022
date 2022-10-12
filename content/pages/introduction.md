@@ -27,7 +27,7 @@ Engineering is not only a career path and discipline; it involves creativity, th
 
 The latter is something at which MIT Lincoln Laboratory excels. Our innovations have helped us build a reputation as an organization that can help solve some of the world’s biggest problems using research and development (R&D)—our bread and butter. For example, the Laboratory has [supported disaster relief efforts](https://www.ll.mit.edu/impact/technology-confronts-disaster) by deploying laser radar imaging technologies to survey disaster zones from the air. Instead of manufacturing and selling the products we design like a normal company would, MIT LL turns its inventions over to the client who paid for the research (the Department of Defense, for example), or to another company who will license the technology and take it to market. More on that later.
 
-{{< resource uuid="b2e9e07b-6c2d-4774-8d81-16e815c9ace0" >}}
+{{< resource uuid="9ffd618e-4ee5-4733-8d8f-d88762d388cb" >}}
 
 What is so exciting about engineering is that there are not only many different types of engineers (such as nuclear, mechanical, computer, software, bioengineering, etc.), but the core skills learning in engineering degree programs are applicable anywhere. Think of engineering as a way of disciplined thinking—it provides a scientific and mathematical process to frame a problem and create one or more solutions to that problem. 
 
