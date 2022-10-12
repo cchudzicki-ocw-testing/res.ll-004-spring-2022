@@ -25,3 +25,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
+This course introduces learners to several different fields in engineering.
