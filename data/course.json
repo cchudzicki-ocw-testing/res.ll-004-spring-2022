@@ -1,7 +1,9 @@
 {
   "term": "Spring",
   "year": "2022",
-  "level": [],
+  "level": [
+    "Non Credit"
+  ],
   "topics": [
     [
       "Engineering"
@@ -22,7 +24,7 @@
     "website": "ocw-www"
   },
   "course_image": {
-    "content": "",
+    "content": "f06efaf9-f23a-451b-bfd2-efc6e0448a28",
     "website": "ll-educate-introduction-to-engineering-concepts"
   },
   "course_title": "LL EduCATE: Introduction to Engineering Concepts",
@@ -33,9 +35,12 @@
   "extra_course_numbers": "",
   "primary_course_number": "RES.LL-004",
   "course_image_thumbnail": {
-    "content": "",
+    "content": "f2c3f3dd-4215-485c-a58d-aa4d1bcb3fc7",
     "website": "ll-educate-introduction-to-engineering-concepts"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Labs",
+    "Videos"
+  ],
   "site_uid": "dde77c1c-2843-40bf-a8d2-27658408e014"
 }
