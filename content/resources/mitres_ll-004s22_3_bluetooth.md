@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MITRES_LL-004S22_3_Bluetooth.mp4
+title: 'Experiment: Bluetooth Hide and Seek'
 uid: 1d489a5d-3b80-47cc-b086-0a03e8528396
 video_files:
   video_captions_file: ''
@@ -19,7 +20,8 @@ video_files:
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
-  video_tags: ''
+  video_tags: engineering, lincoln lab, STEM, STEAM, bluetooth
   youtube_description: ''
   youtube_id: qfimubh_67Q
 ---
+This video introduces the concepts and motivation for the bluetooth hide-and-seek experiment programming microchips.
