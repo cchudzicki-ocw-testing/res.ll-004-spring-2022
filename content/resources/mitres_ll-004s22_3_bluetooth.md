@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Experiment: Bluetooth Hide and Seek'
 uid: 1d489a5d-3b80-47cc-b086-0a03e8528396
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/1CBp4F3RdlF2IkH4qserAtIeTQxWxUqF9_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/qfimubh_67Q/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/1CBp4F3RdlF2IkH4qserAtIeTQxWxUqF9_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: engineering, lincoln lab, STEM, STEAM, bluetooth

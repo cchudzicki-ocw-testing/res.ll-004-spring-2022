@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Introduction for LL EduCATE: Introduction to Engineering Concepts'
 uid: 22b78db7-a9a2-449c-98c0-54d2f9ac6a3c
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/1XTgSxFk6S2W1BOOzh4vadP_JeDdTv0-D_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/b9fHAZAWtFs/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/1XTgSxFk6S2W1BOOzh4vadP_JeDdTv0-D_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: engineering, lincoln laboratory, science, STEM, STEAM

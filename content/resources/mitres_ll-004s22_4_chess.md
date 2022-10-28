@@ -14,9 +14,9 @@ resourcetype: Video
 title: 'Experiment: Clausewitzian Chess'
 uid: 16df7727-fda2-484a-bf86-4c30425c76c0
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/1vl901QqSQLPb3beEfbc7ibqiZaP-HXl__transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/Ed66NxfDETY/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/1vl901QqSQLPb3beEfbc7ibqiZaP-HXl__transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: engineering, lincoln lab, STEM, STEAM, clausewitzian, chess
