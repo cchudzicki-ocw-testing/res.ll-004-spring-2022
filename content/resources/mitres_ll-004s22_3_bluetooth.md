@@ -21,7 +21,16 @@ video_files:
 video_metadata:
   video_speakers: ''
   video_tags: engineering, lincoln lab, STEM, STEAM, bluetooth
-  youtube_description: ''
+  youtube_description: "MIT RES.LL-004 LL EduCATE: Introduction to Engineering Concepts,\
+    \ Spring 2022\nInstructor: \vJuliana Furgala\n\nView the complete course: https://ocw.mit.edu/courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63HVH1wnIgj4UCKXBwx3UWR\n\
+    \nThis video introduces the concepts and motivation for the bluetooth hide-and-seek\
+    \ experiment programming microchips.\n\nLicense: Creative Commons BY-NC-SA\nMore\
+    \ information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
+    \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
+    \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\
+    \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: qfimubh_67Q
 ---
 This video introduces the concepts and motivation for the bluetooth hide-and-seek experiment programming microchips.
