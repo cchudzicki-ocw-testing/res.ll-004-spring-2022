@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/ll-educate-introduction-to-engineering-concepts/1vl901QqSQLPb3beEfbc7ibqiZaP-HXl_/mitres_ll-004s22_4_chess.mp4
+file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/mitres_ll-004s22_4_chess_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -15,11 +15,11 @@ title: MITRES_LL-004S22_4_Chess.mp4
 uid: 16df7727-fda2-484a-bf86-4c30425c76c0
 video_files:
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/Ed66NxfDETY/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: Ed66NxfDETY
 ---
