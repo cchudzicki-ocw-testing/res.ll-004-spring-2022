@@ -22,8 +22,8 @@ video_metadata:
   video_speakers: ''
   video_tags: engineering, lincoln laboratory, science, STEM, STEAM
   youtube_description: "MIT RES.LL-004 LL EduCATE: Introduction to Engineering Concepts,\
-    \ Spring 2022\nInstructor: Max Salazar, Bich Vu\n\nView the complete course: <url\
-    \ to course home page when published>\nYouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63HVH1wnIgj4UCKXBwx3UWR\n\
+    \ Spring 2022\nInstructor: Max Salazar, Bich Vu\n\nView the complete course: https://ocw.mit.edu/courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63HVH1wnIgj4UCKXBwx3UWR\n\
     \nWelcome to the MIT Lincoln Laboratory introduction to the engineering discipline.\
     \ In this course, we will illustrate the many ways that an engineering degree\
     \ can be used.\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\n\
