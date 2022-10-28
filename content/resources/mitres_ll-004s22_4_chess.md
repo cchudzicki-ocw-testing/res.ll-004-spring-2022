@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MITRES_LL-004S22_4_Chess.mp4
+title: 'Experiment: Clausewitzian Chess'
 uid: 16df7727-fda2-484a-bf86-4c30425c76c0
 video_files:
   video_captions_file: ''
@@ -19,7 +19,8 @@ video_files:
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
-  video_tags: ''
+  video_tags: engineering, lincoln lab, STEM, STEAM, clausewitzian, chess
   youtube_description: ''
   youtube_id: Ed66NxfDETY
 ---
+This video introduces Clausewitzian Chess in preparation for the experiment.
