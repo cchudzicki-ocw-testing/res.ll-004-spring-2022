@@ -58,3 +58,7 @@ What is also great about engineering is that it is available to people with vary
 Having a range of experiences not only helps you start a career in an area that excites you, but helps you determine which paths you may want to take in the future as you mature. Having a range of professional and academic experiences also enables you to change fields or work on different types of projects. In this way, you will build a solid core of knowledge that you can use throughout your working life. You will want to keep learning, deepening your experience by working on different teams and projects, and eventually you will be acknowledged as an expert.
 
 How do you decide what type of engineer you want to be, though? MIT Lincoln Laboratory hopes that this course will help you at least narrow down the possibilities—or broaden your understanding for the field of engineering—so that you have some data and knowledge about what those possibilities are.
+
+{{% resource_link "f6ca80c5-390a-4f90-bd6e-caf2c3fe0315" "MITRES\_LL-004S22\_2\_Filtration\_mp4\_English.pdf" %}}
+
+{{% resource_link "d9ea64c6-d2cf-4672-81d5-c43da4a0741a" "MITRES\_LL-004S22\_2\_Filtration\_mp4\_English.vtt" %}}
