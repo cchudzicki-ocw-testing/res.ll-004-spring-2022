@@ -59,6 +59,4 @@ Having a range of experiences not only helps you start a career in an area that 
 
 How do you decide what type of engineer you want to be, though? MIT Lincoln Laboratory hopes that this course will help you at least narrow down the possibilities—or broaden your understanding for the field of engineering—so that you have some data and knowledge about what those possibilities are.
 
-{{% resource_link "f6ca80c5-390a-4f90-bd6e-caf2c3fe0315" "MITRES\_LL-004S22\_2\_Filtration\_mp4\_English.pdf" %}}
-
-{{% resource_link "d9ea64c6-d2cf-4672-81d5-c43da4a0741a" "MITRES\_LL-004S22\_2\_Filtration\_mp4\_English.vtt" %}}
+{{< resource uuid="2b89d2fa-3def-4e18-8d6d-a512050b99ec" >}}
