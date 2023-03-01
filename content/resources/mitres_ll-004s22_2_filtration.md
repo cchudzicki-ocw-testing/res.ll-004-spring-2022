@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Experiment: Filtration Lab'
 uid: 2b89d2fa-3def-4e18-8d6d-a512050b99ec
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/1o_l2fl69lcFMV7ipY8AUgNYB5OKzYXtp_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/HXwdm2DM18M/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022/1o_l2fl69lcFMV7ipY8AUgNYB5OKzYXtp_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: engineering, lincoln laboratory, science, STEM, STEAM, filtration
