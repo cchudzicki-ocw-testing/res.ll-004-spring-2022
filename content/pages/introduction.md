@@ -9,6 +9,8 @@ Welcome to the **MIT Lincoln Laboratory** introduction to the engineering discip
 
 ## ***{Video}*** 
 
+{{< resource uuid="22b78db7-a9a2-449c-98c0-54d2f9ac6a3c" >}}
+
 So, first, what is engineering? Here’s what the Oxford Languages Dictionary says:
 
 > **en·gi·neer·ing**
