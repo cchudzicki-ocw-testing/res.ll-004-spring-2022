@@ -13,6 +13,8 @@ At the same time, less visible filtration systems, such as the filtration effici
 
 MIT Lincoln Laboratory helped address that issue in the United States by working with New York’s Metropolitan Transportation Authority (MTA) and the Department of Homeland Security (DHS) Science and Technology Directorate (S&T). A multi-disciplinary team of researchers from Lincoln Laboratory’s Biotechnology and Human Systems Division studied the spread of safe, water-based aerosols on public transportation. They mimicked how viruses spread when people cough or breathe in order to understand the effect of ventilation and air-filtration systems on reducing the spread. These types of studies demonstrate the application of engineering and research skills to urgent, real-world problems and show how you could one day have an impact on the lives of millions.
 
+{{< resource uuid="2b89d2fa-3def-4e18-8d6d-a512050b99ec" >}}
+
 ### Test Your Knowledge on Filtration
 
 1. What is the purpose of filtration?
