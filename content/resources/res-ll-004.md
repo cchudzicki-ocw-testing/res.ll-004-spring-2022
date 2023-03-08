@@ -6,6 +6,7 @@ file: /courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring
 file_type: image/jpeg
 image_metadata:
   caption: This course introduces learners to several different fields in engineering.
+    Image provided by course instructors.
   credit: ''
   image-alt: Central bar stating 'Diverse Engineering Fields' with branches of computer
     science, software, electrical, data science, civil, mechanical, nuclear, bioengineering,
@@ -25,4 +26,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-This course introduces learners to several different fields in engineering.
+This course introduces learners to several different fields in engineering. Image provided by course instructors.
