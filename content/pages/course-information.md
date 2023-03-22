@@ -17,7 +17,7 @@ Most importantly, we ask you to bring your personal expression to the experiment
 
 ### **How does this lesson work?**
 
-This lesson is asynchronous, so you can start it at any point and work through it on your own time. We encourage you to work in groups of 2-3 with your friends for the experiments but this is optional. All three experiments can be done with one person.
+This lesson is asynchronous, so you can start it at any point and work through it on your own time. We encourage you to work in groups of 2–3 with your friends for the experiments but this is optional. All three experiments can be done with one person.
 
 ### **What will you learn in this lesson?**
 
