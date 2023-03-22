@@ -7,6 +7,8 @@ uid: 9555f1e7-6d6f-41a1-8c80-c4ff998faabf
 ---
 {{< resource uuid="1d489a5d-3b80-47cc-b086-0a03e8528396" >}}
 
+> Bluetooth Hide and Seek experiment introduction by Juliana Furgala.
+
 The global health crises that began in 2019 brought new uses for existing technology. Specifically, cellular phones have a “find my phone” functionality that uses phone-to-phone Bluetooth chirp communication. This functionality was repurposed for anonymous contact tracing under the [Private Automated Contract Tracing](https://pact.mit.edu/) (PACT) effort. PACT was a collaborative effort by numerous organizations to provide a secure, anonymous, informative way of determining if you (well, your phone) have been in contact with someone who has COVID. Through close collaboration with industry, support for this functionality was built into Apple phones and available on Android phones as an app. 
 
 {{< resource uuid="669fe0a9-cfdb-4b27-b334-fb1acf1cb070" >}}
