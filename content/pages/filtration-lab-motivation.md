@@ -15,6 +15,8 @@ MIT Lincoln Laboratory helped address that issue in the United States by working
 
 {{< resource uuid="2b89d2fa-3def-4e18-8d6d-a512050b99ec" >}}
 
+> Filtration lab introduction by Janice Crager.
+
 ### Test Your Knowledge on Filtration
 
 1. What is the purpose of filtration?
