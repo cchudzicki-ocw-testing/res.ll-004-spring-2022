@@ -71,104 +71,110 @@ Let’s talk about what the code does and how it works! The code is written ou
 **Code.py Code Load:** 
 
 ```python
-# This section is comments! Comments are needed so the engineer can remember why they #did what they did as well as let others who use the code to quickly understand.  
+# Start copying here
+# This section is comments! Comments are needed so the engineer can remember why they #did what they did as well as let others who use the code to quickly understand.
 
-""" 
-Circuit Playground Bluefruit Ornament Proximity 
+"""
+Circuit Playground Bluefruit Ornament Proximity
+This demo uses advertising to set the color of scanning devices depending on the strongest broadcast signal received. Circuit Playgrounds can be switched between advertising and scanning using the slide switch. The buttons change the color when advertising.
+"""
 
-This demo uses advertising to set the color of scanning devices depending on the strongest broadcast signal received. Circuit Playgrounds can be switched between advertising and scanning using the slide switch. The buttons change the color when advertising. 
-""" 
+# Import the libraries. Libraries hold complicated functions that are abstracted to make #writing code easier.
 
-# Import the libraries. Libraries hold complicated functions that are abstracted to make #writing code easier. 
-import time 
-from adafruit_circuitplayground.bluefruit import cpb 
+import time
+from adafruit_circuitplayground.bluefruit import cpb
+from adafruit_ble import BLERadio
+from adafruit_ble.advertising.adafruit import AdafruitColor
 
-from adafruit_ble import BLERadio 
-from adafruit_ble.advertising.adafruit import AdafruitColor 
+# This section selects the colors that will be displayed by the LED.
+# The color pickers will cycle through this list with buttons A and B.
 
-# This section selects the colors that will be displayed by the LED. 
-# The color pickers will cycle through this list with buttons A and B. 
+color_options = [0x110000,
+                 0x111100,
+                 0x001100,
+                 0x001111,
+                 0x000011,
+                 0x110011,
+                 0x111111,
+                 0x221111,
+                 0x112211,
+                 0x111122]
 
-color_options = [0x110000, 
-                 0x111100, 
-                 0x001100, 
-                 0x001111, 
-                 0x000011, 
-                 0x110011, 
-                 0x111111, 
-                 0x221111, 
-                 0x112211, 
-                 0x111122]  
+# Here, the Blue Tooth Low Energy (BLE) Radio is set up.
 
-# Here, the Blue Tooth Low Energy (BLE) Radio is set up. 
-ble = BLERadio() 
-# This section is a patch to keep the pixels from flickering. 
-i = 0 
-advertisement = AdafruitColor() 
-advertisement.color = color_options[i] 
-cpb.pixels.auto_write = False 
-cpb.pixels.fill(color_options[i]) 
- 
+ble = BLERadio()
 
-# Below is the main loop of code.  
-# This first mode broadcasts signals from the BLE radio. 
-while True: 
-    # The first mode is the color selector which broadcasts its current color to other devices. 
-    if cpb.switch: 
-        print("Broadcasting color") 
-        ble.start_advertising(advertisement) 
-        while cpb.switch: 
-            last_i = i 
-            if cpb.button_a: 
-                i += 1 
-            if cpb.button_b: 
-                i -= 1 
-            i %= len(color_options) 
-            if last_i != i: 
-                color = color_options[i] 
-                cpb.pixels.fill(color) 
-                cpb.pixels.show() 
-                print("New color {:06x}".format(color)) 
-                advertisement.color = color 
-                ble.stop_advertising() 
-                ble.start_advertising(advertisement) 
-                time.sleep(0.5) 
-        ble.stop_advertising() 
+# This section is a patch to keep the pixels from flickering.
 
+i = 0
+advertisement = AdafruitColor()
+advertisement.color = color_options[i]
+cpb.pixels.auto_write = False
+cpb.pixels.fill(color_options[i])
 
-# This second mode listens for broadcasts from other Adafruit BLE radios that are seeking. The LEDs will light up if your detector hears from another unit. 
-    # The second mode listens for color broadcasts and shows the color of the strongest signal. 
-    else: 
-        closest = None 
-        closest_rssi = -80 
-        closest_last_time = 0 
-        print("Scanning for colors") 
-        while not cpb.switch: 
-            for entry in ble.start_scan(AdafruitColor, minimum_rssi=-100, timeout=1): 
-                if cpb.switch: 
-                    break 
-                now = time.monotonic() 
-                new = False 
-                if entry.address == closest: 
-                    pass 
-                elif entry.rssi > closest_rssi or now - closest_last_time > 0.4: 
-                    closest = entry.address 
-                else: 
-                    continue 
-                closest_rssi = entry.rssi 
-                closest_last_time = now 
-                discrete_strength = min((100 + entry.rssi) // 5, 10) 
-                cpb.pixels.fill(0x000000) 
-                for i in range(0, discrete_strength): 
-                    cpb.pixels[i] = entry.color 
-                cpb.pixels.show() 
+# Below is the main loop of code.
+# This first mode broadcasts signals from the BLE radio.
 
-            # Clear the pixels if we haven't heard from anything recently. 
-            now = time.monotonic() 
-            if now - closest_last_time > 1: 
-                cpb.pixels.fill(0x000000) 
-                cpb.pixels.show() 
+while True:
+    # The first mode is the color selector which broadcasts its current color to other devices.
+    if cpb.switch:
+        print("Broadcasting color")
+        ble.start_advertising(advertisement)
+        while cpb.switch:
+            last_i = i
+            if cpb.button_a:
+                i += 1
+            if cpb.button_b:
+                i -= 1
+            i %= len(color_options)
+            if last_i != i:
+                color = color_options[i]
+                cpb.pixels.fill(color)
+                cpb.pixels.show()
+                print("New color {:06x}".format(color))
+                advertisement.color = color
+                ble.stop_advertising()
+                ble.start_advertising(advertisement)
+                time.sleep(0.5)
+        ble.stop_advertising()
+
+# This second mode listens for broadcasts from other Adafruit BLE radios that are seeking. The #LEDs will light up if your detector hears from another unit.
+    # The second mode listens for color broadcasts and shows the color of the strongest signal.
+
+    else:
+        closest = None
+        closest_rssi = -80
+        closest_last_time = 0
+        print("Scanning for colors")
+        while not cpb.switch:
+            for entry in ble.start_scan(AdafruitColor, minimum_rssi=-100, timeout=1):
+                if cpb.switch:
+                    break
+                now = time.monotonic()
+                new = False
+                if entry.address == closest:
+                    pass
+                elif entry.rssi > closest_rssi or now - closest_last_time > 0.4:
+                    closest = entry.address
+                else:
+                    continue
+                closest_rssi = entry.rssi
+                closest_last_time = now
+                discrete_strength = min((100 + entry.rssi) // 5, 10)
+                cpb.pixels.fill(0x000000)
+                for i in range(0, discrete_strength):
+                    cpb.pixels[i] = entry.color
+                cpb.pixels.show()
+
+            # Clear the pixels if we haven't heard from anything recently.
+
+            now = time.monotonic()
+            if now - closest_last_time > 1:
+                cpb.pixels.fill(0x000000)
+                cpb.pixels.show()
         ble.stop_scan()
+
+# Stop copying here
 ```
 
 *And that’s the end of the code needed to run the device. *  
