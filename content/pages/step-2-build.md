@@ -70,7 +70,8 @@ Let’s talk about what the code does and how it works! The code is written ou
 
 ```python
 # Start copying here
-# This section is comments! Comments are needed so the engineer can remember why they #did what they did as well as let others who use the code to quickly understand.
+# This section is comments! Comments are needed so the engineer can remember why they 
+# did what they did as well as let others who use the code to quickly understand.
 
 """
 Circuit Playground Bluefruit Ornament Proximity
