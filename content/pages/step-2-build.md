@@ -78,7 +78,8 @@ Circuit Playground Bluefruit Ornament Proximity
 This demo uses advertising to set the color of scanning devices depending on the strongest broadcast signal received. Circuit Playgrounds can be switched between advertising and scanning using the slide switch. The buttons change the color when advertising.
 """
 
-# Import the libraries. Libraries hold complicated functions that are abstracted to make #writing code easier.
+# Import the libraries. Libraries hold complicated functions that are abstracted to make
+# writing code easier.
 
 import time
 from adafruit_circuitplayground.bluefruit import cpb
@@ -137,8 +138,8 @@ while True:
                 time.sleep(0.5)
         ble.stop_advertising()
 
-# This second mode listens for broadcasts from other Adafruit BLE radios that are seeking. The #LEDs will light up if your detector hears from another unit.
-    # The second mode listens for color broadcasts and shows the color of the strongest signal.
+# This second mode listens for broadcasts from other Adafruit BLE radios that are seeking. # The LEDs will light up if your detector hears from another unit.
+# The second mode listens for color broadcasts and shows the color of the strongest signal.
 
     else:
         closest = None
