@@ -14,3 +14,5 @@ These Big Problems may seem daunting or even insurmountable, but it’s importan
 **Engineering is the art of intentional problem solving, using mathematical and scientific principles, to produce an optimized solution.** 
 
 So, if you have a problem to solve, go out and apply your engineering skills! Use engineering to find the [best way to cook hard-boiled eggs](https://www.seriouseats.com/the-secrets-to-peeling-hard-boiled-eggs), like MIT graduate J. Kenji López-Alt, or to [get every last drop of ketchup out of a bottle](https://www.bbc.com/news/science-environment-39030055), like Dr. Kripa Varanasi at MIT. We hope that you can use the resources in this lesson and the skills you have learned from the experiments to bring engineering practices into your lives and, if you want, pursue engineering as a career. We at MIT Lincoln Laboratory thank you for taking the time to participate in this course, and wish you all the best in your future engineering endeavors. Happy problem solving!
+
+On completion of the course, download your {{% resource_link "cd2fd672-cbae-48f7-b417-fa99d500b863" "Certificate of Completion (PDF)" %}}.
