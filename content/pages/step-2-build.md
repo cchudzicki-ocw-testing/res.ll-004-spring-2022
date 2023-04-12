@@ -5,9 +5,7 @@ draft: false
 title: 'Bluetooth Hide & Seek | Step 2: Build'
 uid: 07c691eb-3eee-41dc-8c1a-14a2c9a52c18
 ---
-Now let’s shift our focus to the ***Build***
-
-phase. Going forward, we assume that you have the kit and are ready to continue.  
+Now let’s shift our focus to the ***Build*** phase. Going forward, we assume that you have the kit and are ready to continue.  
 
 ### Setting Up Your Software 
 
