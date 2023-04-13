@@ -64,7 +64,7 @@ Now you're all set to use CircuitPython with the features of the Circuit Pla
 
 The **adafruit\_circuitplayground** library allows us to use essential commands and features of the board without a lot of setup in our code! Since we're using the **adafruit\_circuitplayground** library in this project, be sure you have all of the libraries installed as specified in the section above.
 
-Let’s talk about what the code does and how it works! The code is written out below but is available for easy download [here](https://courses.llx.edly.io/assets/courseware/v1/42f035f7517399e0802ef4141b26e569/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/code.py). Once downloaded, copy the file into the **CIRCUITPY** drive and overwrite the default "code.py" file that is there. Before you run it though, let’s look at what it does. 
+Let’s talk about what the code does and how it works! The code is written out below but is available for easy download: [Python Code (PY)](https://courses.llx.edly.io/assets/courseware/v1/42f035f7517399e0802ef4141b26e569/asset-v1:llx+MITLLx81+Self-paced-2022+type@asset+block/code.py). Once downloaded, copy the file into the **CIRCUITPY** drive and overwrite the default "code.py" file that is there. Before you run it though, let’s look at what it does. 
 
 **Code.py Code Load:** 
 
