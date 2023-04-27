@@ -19,4 +19,4 @@ You have now successfully built a water filtration system! Take some time to dis
 
 {{< resource uuid="d9330441-0513-4bc3-b457-e542e61bacf5" >}}
 
-> Figure 3. An experiment setup before (above) and after (below) filtration
+> Figure 3. An experiment setup before (left) and after (right) filtration.
