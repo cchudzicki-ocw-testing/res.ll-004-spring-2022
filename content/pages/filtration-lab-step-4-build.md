@@ -11,4 +11,4 @@ Now it’s time to build the filtration system! You are going to build the “lo
 
 {{< resource uuid="1811a27c-ca55-479c-afc6-1e9a7759c202" >}}
 
-> Figure 2. An experiment setup: filtration system (above) and mixed material(s) to filter (below)
+> Figure 2. An experiment setup: filtration system (left) and mixed material(s) to filter (right).
