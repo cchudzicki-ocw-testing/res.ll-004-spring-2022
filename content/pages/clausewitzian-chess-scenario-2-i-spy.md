@@ -20,14 +20,13 @@ Keep most of the settings the same as the last scenario, but tinker with some of
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
  
 {{< thclose >}}{{< thopen >}}
-**Setting** 
+**Setting**
 {{< thclose >}}{{< thopen >}}
-**Description** 
+**Description**
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="1" rowspan="3" >}}
-**Your Piece Configuration** 
+**Your Piece Configuration**
 {{< tdclose >}}{{< tdopen >}}
-View Range  
- 
+View Range 
 {{< tdclose >}}{{< tdopen >}}
 “How far in squares can I see?” 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
