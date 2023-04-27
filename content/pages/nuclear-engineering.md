@@ -6,7 +6,7 @@ draft: false
 title: Nuclear Engineering
 uid: 6e3ee185-f87f-46da-93b4-d213eec53d4d
 ---
-Nuclear engineering covers nuclear power, nuclear medicine and efficient and safe nuclear power. The field of nuclear engineering develops uses for nuclear materials for medical diagnostic equipment, food production, radioactive-waste disposal, powering nuclear submarines and thousands of homes while reducing the need for petrochemicals, and more.
+Nuclear engineering covers nuclear power, nuclear medicine, and efficient and safe nuclear power. The field of nuclear engineering develops uses for nuclear materials for medical diagnostic equipment, food production, radioactive-waste disposal, powering nuclear submarines and thousands of homes while reducing the need for petrochemicals, and more.
 
 ### Specializations:
 
@@ -42,8 +42,8 @@ Nuclear engineering covers nuclear power, nuclear medicine and efficient and saf
 - [ICNENM 2021: Nuclear Engineering and Nuclear Materials Conference](https://waset.org/nuclear-engineering-and-nuclear-materials-conference-in-june-2021-in-san-francisco)
 - [ICTNWMDM 2021: Technologies in Nuclear Waste Management Process Design and Materials Conference](https://waset.org/technologies-in-nuclear-waste-management-process-design-and-materials-conference-in-may-2021-in-tokyo)
 - [ICNCE 2021: Nuclear Chemistry and Engineering Conference](https://waset.org/nuclear-chemistry-and-engineering-conference-in-june-2021-in-tokyo)
-- [CNMIT 2021: Nuclear Medicine and Imaging Technology Conference](https://waset.org/nuclear-medicine-and-imaging-technology-conference-in-june-2021-in-new-york)
+- [ICNMIT 2021: Nuclear Medicine and Imaging Technology Conference](https://waset.org/nuclear-medicine-and-imaging-technology-conference-in-june-2021-in-new-york)
 
 #### Sources
 
-Wikipedia, [Try Engineering (IEEE)](http://tryengineering.org), [Engineering Conferences 2022/2023/2024](https://conferenceindex.org/conferences/engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
+Wikipedia, [Try Engineering (IEEE)](http://tryengineering.org), [Engineering Conferences](https://conferenceindex.org/conferences/engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
