@@ -51,4 +51,4 @@ The field of chemical engineering offers unique opportunities to make a real dif
 
 #### Sources
 
-Wikipedia, [Try Engineering (IEEE)](https://tryengineering.org/), [Chemical Engineering Conferences 2022/2023/2024](https://conferenceindex.org/conferences/chemical-engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
+Wikipedia, [Try Engineering (IEEE)](https://tryengineering.org/), [Chemical Engineering Conferences](https://conferenceindex.org/conferences/chemical-engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
