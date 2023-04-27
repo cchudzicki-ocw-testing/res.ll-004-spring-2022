@@ -43,7 +43,7 @@ You’ve probably learned in your science classes that in order to solve a probl
 
 That is called **problem solving**, and it is the basis for all engineering (and science). What makes engineering different from science is that you get to build stuff (the development part of R&D). As the definition above states, engineers use science, mathematics, materials, and ingenuity to build engines, machines and structures. They can be tiny engines that travel in someone’s bloodstream to evaluate the health of a patient, or huge structures that take someone to Mars and back. Your imagination is the limit (well, and the budget for that project).
 
- **Engineering is the art of intentional problem solving, using mathematical and scientific principles, to produce an optimized solution.**
+**Engineering is the art of intentional problem solving, using mathematical and scientific principles, to produce an optimized solution.**
 
 You don’t have to be the master of all mathematical and scientific fields and concepts to be an engineer (which would probably take a lifetime to learn and not give you any time to actually make a living). That’s what **teams** are for. Most engineering projects involve multiple people with different skill sets and knowledge that, combined with creativity and hard work, determine the best solution (or solutions—there may not only be one) for that particular problem.
 
