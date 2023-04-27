@@ -27,8 +27,7 @@ Supplies list: 
 
 If you are waiting on the kit to arrive in the mail, continue with the lesson and come back to this experiment later. You can also skip this lab if you have time constraints. Kits may be available for loan on a case-by-case basis.
 
-For this **Bluetooth Hide and Seek** experiment, the ***Design*** phase is provided for you. The descriptions here will give you a look at an example of good project documentation, which should allow others to recreate and use what you’ve built. You will be taking over the experiment starting at the ***Build*** phase.    
- 
+For this **Bluetooth Hide and Seek** experiment, the ***Design*** phase is provided for you. The descriptions here will give you a look at an example of good project documentation, which should allow others to recreate and use what you’ve built. You will be taking over the experiment starting at the ***Build*** phase.   
 
 > **Looking at the Science: What is Radio Frequency?** 
 > 
