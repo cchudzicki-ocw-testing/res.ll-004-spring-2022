@@ -36,7 +36,7 @@ Study of how **electricity**, **electronics,** and **electromagnetism** are appl
 ### Societies:
 
 - [IET (Institution of Engineering and Technology)](http://www.theiet.org/): To inspire, inform and influence the global engineering community, supporting technology innovation to meet the needs of society.
-- [Optical Society of America (OSA)](https://www.osa.org): The OSA was organized to increase and diffuse the knowledge of optics, pure and applied; to promote the common interests of investigators of optical problems, of designers, and of users of optical apparatus of all kinds; and to encourage cooperation among them.
+- [Optica (formerly OSA)](https://www.osa.org): It was organized to increase and diffuse the knowledge of optics, pure and applied; to promote the common interests of investigators of optical problems, of designers, and of users of optical apparatus of all kinds; and to encourage cooperation among them.
 - [The International Society for Optics and Photonics (SPIE)](https://spie.org): The society's fundamental mission is to provide world-class education and information services that enhance and promote the field of optical engineering, as well as add value to the careers of the members it serves.
 - [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/): The technical objectives of the IEEE focus on advancing the theory and practice of electrical, electronics, and computer engineering as well as computer science.
 - [National Association of Radio and Telecommunications Engineers (NARTE)](https://inarte.org/who-we-are/): NARTE is a professional organization which certifies qualified engineers and technicians in the fields of telecommunications, electromagnetic compatibility/interference, and electrostatic discharge control.
@@ -55,4 +55,4 @@ Study of how **electricity**, **electronics,** and **electromagnetism** are appl
 
 #### Sources
 
-Wikipedia, [Try Engineering (IEEE)](http://tryengineering.org), [Engineering Conferences 2022/2023/2024](https://conferenceindex.org/conferences/engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
+Wikipedia, [Try Engineering (IEEE)](http://tryengineering.org), [Engineering Conferences](https://conferenceindex.org/conferences/engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
