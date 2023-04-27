@@ -15,7 +15,7 @@ The global health crises that began in 2019 brought new uses for existing tech
 
  What is PACT?  
 
-[PACT’s](https://pact.mit.edu/wp-content/uploads/2020/05/PACT-Mission-and-Approach-2020-05-19-.pdf) mission is to enhance contact tracing in pandemic response by designing exposure detection functions in personal digital communication devices that have maximal public health utility while preserving privacy. **The PACT team is a partnership among cryptographers, physicians, privacy experts, scientists and engineers**.
+[PACT’s](https://pact.mit.edu/wp-content/uploads/2020/05/PACT-Mission-and-Approach-2020-05-19-.pdf) mission is to enhance contact tracing in pandemic response by designing exposure detection functions in personal digital communication devices that have maximal public health utility while preserving privacy. **The PACT team is a partnership among cryptographers, physicians, privacy experts, scientists, and engineers**.
 
 {{< resource uuid="906fa1ec-b23c-4731-ae2d-dfa7f1012c11" >}}
 
