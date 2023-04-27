@@ -32,10 +32,10 @@ Check the king three times without capturing it. (A check lasts until the king m
 {{< tdclose >}}{{< tdopen >}}
 Capture more pieces than your opponent by the end of the game. 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-**Most Material**       
+**Most Material**        
  
 {{< tdclose >}}{{< tdopen >}}
-Capture the most points worth of pieces by the end of the game. (See value for each piece under Piece Configuration settings, described below.)       
+Capture the most points worth of pieces by the end of the game. (See value for each piece under Piece Configuration settings, described below.)        
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -65,7 +65,7 @@ The first time a pawn moves, it can move two squares. 
 
 If the pawn reaches the fifth row (near enemy lines) and the opponent moves their pawn two squares, starting from the front line, then the pawn can move diagonally and overtake it, capturing it in the process.  
 
-[https://upload.wikimedia.org/wikipedia/commons/0/09/Ajedrez_animaci%C3%B3n_en_passant.gif](https://upload.wikimedia.org/wikipedia/commons/0/09/Ajedrez_animaci%C3%B3n_en_passant.gif) 
+[See this example GIF.](https://upload.wikimedia.org/wikipedia/commons/0/09/Ajedrez_animaci%C3%B3n_en_passant.gif)
 
 Pawns are the only piece that cannot move backwards. 
 
@@ -119,7 +119,7 @@ The queen can move any number of squares in any direction (straight or diagonal)
 
 {{< resource uuid="6dad7d84-d183-476e-8d9a-39a7e602f69a" >}}
 {{< tdclose >}}{{< tdopen >}}
-One square in any direction as long as the new location is not under attack. The king can do a special move called castling but you don’t have to worry about that here as that feature is not supported.       
+One square in any direction as long as the new location is not under attack. The king can do a special move called castling but you don’t have to worry about that here as that feature is not supported.        
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -127,4 +127,4 @@ One square in any direction as long as the new location is not under attack. The
 
 The Clausewitzian Chess document provides a lot of details on all the buttons and options so your first step is to review the ***Game Element and Design*** section of the [**Clausewitzian Chess document**](https://raw.githubusercontent.com/mit-ll/Clausewitzian_Chess/master/Clausewitzian_Chess_v6.pdf)*.* 
 
-For each scenario below, you will be setting up your own versions of chess at [http://clausewitzianchess.com/](http://clausewitzianchess.com/) that matches that description. Try to solve the game. When you finish each game, return here for questions to reflect on and to continue to the next scenario.
+For each scenario below, you will be setting up your own versions of chess at [Clausewitzian Chess](http://clausewitzianchess.com/) that matches that description. Try to solve the game. When you finish each game, return here for questions to reflect on and to continue to the next scenario.
