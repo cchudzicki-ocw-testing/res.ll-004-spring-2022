@@ -40,7 +40,7 @@ You may ask how are roads and bridges built? Well, the answer is civil engineeri
 - [Construction Specifications Institute (CSI)](http://www.csinet.org): CSI provides technical information and products, continuing education, professional conferences, and product shows to enhance communication among all the non-residential building design and construction industry's disciplines.
 - [American Institute of Architects (AIA)](http://www.aia.org): AIA research undertakes as its mission to support architectural research and design excellence by identifying the research needs of the architectural discipline. in its broadest and most inclusive sense. AIA encourages, facilitates, and supports research activities which meet these needs and disseminates research results.
 - [Association of Iron and Steal Technology (AIST)](https://www.aist.org/home.aspx): AIST is dedicated to the advancement of technical and engineering phases of the production and processing of iron and steel.
-- [Association of Engineering Geologists (AEG)](http://aegweb.org): Engineering geology is geologic work that is relevant to engineering, environmental concerns, and the public's health, safety, and welfare.
+- [Association of Environmental & Engineering Geologists (AEG)](http://aegweb.org): Engineering geology is geologic work that is relevant to engineering, environmental concerns, and the public's health, safety, and welfare.
 
 ### Conferences:
 
@@ -52,4 +52,4 @@ You may ask how are roads and bridges built? Well, the answer is civil engineeri
 
 #### Sources
 
-Wikipedia, [Try Engineering (IEEE)](https://tryengineering.org/), [Civil Engineering Conferences 2022/2023/2024](https://conferenceindex.org/conferences/civil-engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
+Wikipedia, [Try Engineering (IEEE)](https://tryengineering.org/), [Civil Engineering Conferences](https://conferenceindex.org/conferences/civil-engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
