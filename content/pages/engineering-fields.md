@@ -16,7 +16,7 @@ The following pages will explore the following engineering fields. It is not a r
 
 ### **Salaries**
 
-If you’re interested in what starting salaries are for various engineering careers, check out the [2021 Engineering Salary Statistics](https://www.mtu.edu/engineering/outreach/welcome/salary/) by Michigan Tech College of Engineering. There are some different statistics available at the [College Salary Report](https://www.payscale.com/college-salary-report/majors-that-pay-you-back) by different majors from both associate and Bachelor’s degrees. Be sure to check out your local public or school library to find other salary sources.
+If you’re interested in what starting salaries are for various engineering careers, check out the [Engineering Salary Statistics](https://www.mtu.edu/engineering/outreach/welcome/salary/) by Michigan Tech College of Engineering. There are some different statistics available at the [College Salary Report](https://www.payscale.com/college-salary-report/majors-that-pay-you-back) by different majors from both associate and Bachelor’s degrees. Be sure to check out your local public or school library to find other salary sources.
 
 ### **List of Common Engineering Fields**
 
