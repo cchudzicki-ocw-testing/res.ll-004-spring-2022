@@ -5,7 +5,7 @@ draft: false
 title: Clausewitzian Chess | Findings from Previous Experiments
 uid: 520ce5bc-11d0-4412-aa24-dc279d1f6c3a
 ---
-When this experiment was run by Lincoln Laboratory, multiple interesting conclusions were found as detailed in the [**DARPA CASCADE - Clausewitzian Chess: Companion Guide**](https://raw.githubusercontent.com/mit-ll/Clausewitzian_Chess/master/Clausewitzian_Chess_v6.pdf)’s ***Findings*** section:
+When this experiment was run by Lincoln Laboratory, multiple interesting conclusions were found as detailed in the [**DARPA CASCADE - Clausewitzian Chess: Companion Guide (PDF)**](https://raw.githubusercontent.com/mit-ll/Clausewitzian_Chess/master/Clausewitzian_Chess_v6.pdf) ***Findings*** section:
 
 **More Caution:** Players behave differently when there is uncertainty involved. With full knowledge of the game board, they are more willing to advance their more capable pieces since they fully understand the risks of that action. However, when unsure of those risks, players were likely to hold their more capable pieces in reserve unless they were willing to sacrifice that piece outright. 
 
