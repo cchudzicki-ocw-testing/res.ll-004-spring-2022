@@ -32,11 +32,10 @@ Check the king three times without capturing it. (A check lasts until the king m
 {{< tdclose >}}{{< tdopen >}}
 Capture more pieces than your opponent by the end of the game. 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-**Most Material**         
+**Most Material**          
  
 {{< tdclose >}}{{< tdopen >}}
-Capture the most points worth of pieces by the end of the game. (See value for each piece under Piece Configuration settings, described below.)         
- 
+Capture the most points worth of pieces by the end of the game. (See value for each piece under Piece Configuration settings, described below.) 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ### Piece Movement Ability
@@ -119,7 +118,7 @@ The queen can move any number of squares in any direction (straight or diagonal)
 
 {{< resource uuid="6dad7d84-d183-476e-8d9a-39a7e602f69a" >}}
 {{< tdclose >}}{{< tdopen >}}
-One square in any direction as long as the new location is not under attack. The king can do a special move called castling but you don’t have to worry about that here as that feature is not supported.         
+One square in any direction as long as the new location is not under attack. The king can do a special move called castling but you don’t have to worry about that here as that feature is not supported.          
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
