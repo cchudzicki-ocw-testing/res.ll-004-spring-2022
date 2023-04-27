@@ -56,4 +56,4 @@ This field covers a wide range of engineering fields, from prosthetics to medica
 
 #### Sources
 
-Wikipedia, [Try Engineering (IEEE)](https://tryengineering.org/), [Engineering Conferences 2022/2023/2024](https://conferenceindex.org/conferences/engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
+Wikipedia, [Try Engineering (IEEE)](https://tryengineering.org/), [Engineering Conferences](https://conferenceindex.org/conferences/engineering), [Engineering Professional Associations & Organizations](https://jobstars.com/engineering-professional-associations-organizations/), [Engineering Societies & Organizations](https://www.loc.gov/rr/scitech/SciRefGuides/eng-organizations.html), professional association websites
