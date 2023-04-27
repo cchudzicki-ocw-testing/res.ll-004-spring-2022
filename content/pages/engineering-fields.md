@@ -10,7 +10,7 @@ In this section, we will outline some of the common STEM (science, technology, e
 
 Professional associations are going to be very important as your career develops, since they will provide opportunities (such as conferences) to meet people with your same interests. You’ll make friends, find out about new jobs, and gain new skills at association meetings (not to mention get a chance to travel). We’ve included lists of conferences to show you what types of training are available after you graduate. Continuing education through workshops and conferences will keep you up to date in your field of concentration throughout your career.
 
- As you can imagine, the engineering population mirrors the world of individuals. We have included a section of engineering organizations that focus on the diverse demographics of the engineering world.
+As you can imagine, the engineering population mirrors the world of individuals. We have included a section of engineering organizations that focus on the diverse demographics of the engineering world.
 
 The following pages will explore the following engineering fields. It is not a requirement to go through all the engineering pages in detail. We recommend that you explore the ones that might be of interest to you in more detail and follow through the links where applicable.
 
