@@ -47,7 +47,7 @@ This field covers a wide range of engineering fields, from prosthetics to medica
 ### Conferences:
 
 - ICAB 2021: Applications of Bioinformatics Conference
-- [ICBBE 2021: Bioprocess and Biochemical Engineering Conference](https://waset.org/bioprocess-and-biochemical-engineering-conference-in-june-2021-in-rome)
+- ICBBE 2021: Bioprocess and Biochemical Engineering Conference
 - [ICBCBBE 2021: Bioinformatics, Computational Biology and Biomedical Engineering Conference](https://waset.org/bioinformatics-computational-biology-and-biomedical-engineering-conference-in-june-2021-in-rome)
 - ICBDAM 2021: Bacterial Display, Algorithms and Methods Conference
 - [ICBMB 2021: Bioinformatics and Molecular Biology Conference](https://waset.org/bioinformatics-and-molecular-biology-conference-in-june-2021-in-new-york)
