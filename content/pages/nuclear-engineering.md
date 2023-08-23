@@ -39,8 +39,6 @@ Nuclear engineering covers nuclear power, nuclear medicine, and efficient and sa
 ### Conferences:
 
 - [ICSNPNT 2021: Sustainable Nuclear Power and Nuclear Technologies Conference](https://waset.org/sustainable-nuclear-power-and-nuclear-technologies-conference-in-may-2021-in-tokyo)
-- [ICNENM 2021: Nuclear Engineering and Nuclear Materials Conference](https://waset.org/nuclear-engineering-and-nuclear-materials-conference-in-june-2021-in-san-francisco)
-- [ICTNWMDM 2021: Technologies in Nuclear Waste Management Process Design and Materials Conference](https://waset.org/technologies-in-nuclear-waste-management-process-design-and-materials-conference-in-may-2021-in-tokyo)
 - [ICNCE 2021: Nuclear Chemistry and Engineering Conference](https://waset.org/nuclear-chemistry-and-engineering-conference-in-june-2021-in-tokyo)
 - [ICNMIT 2021: Nuclear Medicine and Imaging Technology Conference](https://waset.org/nuclear-medicine-and-imaging-technology-conference-in-june-2021-in-new-york)
 
